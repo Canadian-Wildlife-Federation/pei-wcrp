@@ -1,5 +1,5 @@
-# CMM WCRP
-This repository is built and maintained by the Canadian Wildlife Federation (CWF). The repository contains a jupyter book and a Quarto book used for the live reporting of the CMM WCRP.
+# PEI WCRP
+This repository is built and maintained by the Canadian Wildlife Federation (CWF). The repository contains a jupyter book and a Quarto book used for the live reporting of the PEI WCRP.
 
 ## Anaconda Prompt
 One may want to use a virtual environment with python version 3.7 installed. Jupyter Book has a problem reconciling versions outside of python 3.7 when running locally.
