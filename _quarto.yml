@@ -3,7 +3,7 @@ project:
   output-dir: _book
 
 book:
-  title: "Horsefly River Watershed Secwepemcúl’ecw Connectivity Remediation Plan: 2021 - 2040"
+  title: "Title"
   author: "Canadian Wildlife Federation"
   date: last-modified
   date-format: "DD-MM-YYYY"
@@ -41,7 +41,7 @@ format:
   html:
     css: style.css
     theme: cosmo
-    toc-title: "HORS WCRP"
+    toc-title: "WCRP"
     crossref:
       fig-title: '**Figure**'
       tbl-title: '**Table**'
