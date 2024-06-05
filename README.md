@@ -12,11 +12,16 @@ For the quarto book, the .qmd files and their text should be updated after pulli
 
 ## Quarto Book
 To run this locally:
+
 Clone the repo locally
+
 Open watershed-quarto.Rproj in rstudio or IDE of choice
+
 In the console, use renv::restore() to download dependencies
+
 Render book (in build tab of rstudio) to run locally
 
+## Extra info
  - Download quarto for your local machine: https://quarto.org/docs/download/. For more specific information on Quarto please refer to the documentation site: https://quarto.org/docs/guide/. 
  - After choosing your prefered method for rendering the quarto book (i.e., RStudio https://quarto.org/docs/tools/rstudio.html, VS Code https://quarto.org/docs/tools/vscode.html, the command line interface (CLI) of your choosing), clone this GitHub repo and open the folder in the IDE.
  - Because of the python and R code chunks within the qmd files, the environment (in the repo as '_environment') to which the rederer points to when running python code among R code must be updated so that it reflects the Python executable on your local machine (the python.exe file). ![image](https://github.com/Canadian-Wildlife-Federation/Horsefly-WCRP/assets/108288081/8d47e62a-7706-4300-8717-d99b14c2df58)
