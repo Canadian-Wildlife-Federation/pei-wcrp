@@ -69,12 +69,12 @@ Focal species represent the ecologically and culturally important species for wh
 
 ### Atlantic Salmon | Plamu | Salmo salar {-}
 
-INSERT TEXT
+INSERT TEXT here
 
-### SAMPLE Chinook Salmon | Kekèsu | Oncorhynchus tshawytscha  {-}
+### American Eel | Kataq | Anguilla rostrata  {-}
 ```{r chinook, echo = FALSE, results = 'asis'}
 #| label: tbl-chinook
-#| tbl-cap: "."
+#| tbl-cap: " table caption"
 #| warning: false
 
 library("flextable")
