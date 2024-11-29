@@ -17,9 +17,6 @@ The connectivity status assessment ... The model spatially locates known and mod
 
 
 
-
-
-
 ::: {#tbl-param .cell tbl-cap='Additional Key Actors. Key Actors are the individuals, groups, and/or organizations, outside of the planning team, with influence and relevant experience in the watershed, whose engagement will be critical for the successful implementation of this WCRP.'}
 
 

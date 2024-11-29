@@ -19,52 +19,49 @@ Effectiveness evaluation of identified conservation strategies and associated ac
 
 
 
-
-
-
 ::: {#tbl-S1 .cell tbl-cap='Strategy 1'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_ec38a th {
+#T_0a22c th {
   background-color: #008270;
   text-align: left;
 }
-#T_ec38a_row0_col0, #T_ec38a_row0_col1, #T_ec38a_row0_col2, #T_ec38a_row1_col0, #T_ec38a_row1_col1, #T_ec38a_row1_col2, #T_ec38a_row2_col0, #T_ec38a_row2_col1, #T_ec38a_row2_col2, #T_ec38a_row3_col0, #T_ec38a_row3_col1, #T_ec38a_row3_col2, #T_ec38a_row4_col0, #T_ec38a_row4_col1, #T_ec38a_row4_col2, #T_ec38a_row5_col0, #T_ec38a_row5_col1, #T_ec38a_row5_col2, #T_ec38a_row5_col3, #T_ec38a_row5_col4, #T_ec38a_row5_col5, #T_ec38a_row6_col0, #T_ec38a_row6_col1, #T_ec38a_row6_col2, #T_ec38a_row7_col0, #T_ec38a_row7_col1, #T_ec38a_row7_col2, #T_ec38a_row8_col0, #T_ec38a_row8_col1, #T_ec38a_row8_col2, #T_ec38a_row9_col0, #T_ec38a_row9_col1, #T_ec38a_row9_col2, #T_ec38a_row9_col3, #T_ec38a_row9_col4, #T_ec38a_row9_col5 {
+#T_0a22c_row0_col0, #T_0a22c_row0_col1, #T_0a22c_row0_col2, #T_0a22c_row1_col0, #T_0a22c_row1_col1, #T_0a22c_row1_col2, #T_0a22c_row2_col0, #T_0a22c_row2_col1, #T_0a22c_row2_col2, #T_0a22c_row3_col0, #T_0a22c_row3_col1, #T_0a22c_row3_col2, #T_0a22c_row4_col0, #T_0a22c_row4_col1, #T_0a22c_row4_col2, #T_0a22c_row5_col0, #T_0a22c_row5_col1, #T_0a22c_row5_col2, #T_0a22c_row5_col3, #T_0a22c_row5_col4, #T_0a22c_row5_col5, #T_0a22c_row6_col0, #T_0a22c_row6_col1, #T_0a22c_row6_col2, #T_0a22c_row7_col0, #T_0a22c_row7_col1, #T_0a22c_row7_col2, #T_0a22c_row8_col0, #T_0a22c_row8_col1, #T_0a22c_row8_col2, #T_0a22c_row9_col0, #T_0a22c_row9_col1, #T_0a22c_row9_col2, #T_0a22c_row9_col3, #T_0a22c_row9_col4, #T_0a22c_row9_col5 {
   background-color: white;
   text-align: left;
 }
-#T_ec38a_row0_col3, #T_ec38a_row0_col5, #T_ec38a_row1_col4, #T_ec38a_row1_col5, #T_ec38a_row3_col4, #T_ec38a_row3_col5, #T_ec38a_row7_col3, #T_ec38a_row7_col4, #T_ec38a_row7_col5 {
+#T_0a22c_row0_col3, #T_0a22c_row0_col5, #T_0a22c_row1_col4, #T_0a22c_row1_col5, #T_0a22c_row3_col4, #T_0a22c_row3_col5, #T_0a22c_row7_col3, #T_0a22c_row7_col4, #T_0a22c_row7_col5 {
   background-color: #03853e;
   text-align: left;
 }
-#T_ec38a_row0_col4, #T_ec38a_row1_col3, #T_ec38a_row2_col3, #T_ec38a_row2_col4, #T_ec38a_row2_col5, #T_ec38a_row3_col3, #T_ec38a_row4_col3, #T_ec38a_row4_col4, #T_ec38a_row4_col5, #T_ec38a_row6_col3, #T_ec38a_row6_col4, #T_ec38a_row6_col5, #T_ec38a_row8_col3 {
+#T_0a22c_row0_col4, #T_0a22c_row1_col3, #T_0a22c_row2_col3, #T_0a22c_row2_col4, #T_0a22c_row2_col5, #T_0a22c_row3_col3, #T_0a22c_row4_col3, #T_0a22c_row4_col4, #T_0a22c_row4_col5, #T_0a22c_row6_col3, #T_0a22c_row6_col4, #T_0a22c_row6_col5, #T_0a22c_row8_col3 {
   background-color: #92d050;
   text-align: left;
 }
-#T_ec38a_row8_col4, #T_ec38a_row8_col5 {
+#T_0a22c_row8_col4, #T_0a22c_row8_col5 {
   background-color: #ffff00;
   text-align: left;
 }
 </style>
-<table id="T_ec38a">
+<table id="T_0a22c">
   <thead>
     <tr>
-      <th id="T_ec38a_level0_col0" class="col_heading level0 col0" >ID</th>
-      <th id="T_ec38a_level0_col1" class="col_heading level0 col1" >Actions</th>
-      <th id="T_ec38a_level0_col2" class="col_heading level0 col2" >Details</th>
-      <th id="T_ec38a_level0_col3" class="col_heading level0 col3" >Feasibility</th>
-      <th id="T_ec38a_level0_col4" class="col_heading level0 col4" >Impact</th>
-      <th id="T_ec38a_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
+      <th id="T_0a22c_level0_col0" class="col_heading level0 col0" >ID</th>
+      <th id="T_0a22c_level0_col1" class="col_heading level0 col1" >Actions</th>
+      <th id="T_0a22c_level0_col2" class="col_heading level0 col2" >Details</th>
+      <th id="T_0a22c_level0_col3" class="col_heading level0 col3" >Feasibility</th>
+      <th id="T_0a22c_level0_col4" class="col_heading level0 col4" >Impact</th>
+      <th id="T_0a22c_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_ec38a_row0_col0" class="data row0 col0" >1.1</td>
-      <td id="T_ec38a_row0_col1" class="data row0 col1" >Remediate crossings that are acting as barriers</td>
-      <td id="T_ec38a_row0_col2" class="data row0 col2" >This action represents some projects that would be led by the planning team with conservation funds (e.g., orphaned barriers or those owned by individuals), while other remediation projects would be the responsibility of the barrier owner. Industry will have to be engaged to successfully implement this intervention. 
+      <td id="T_0a22c_row0_col0" class="data row0 col0" >1.1</td>
+      <td id="T_0a22c_row0_col1" class="data row0 col1" >Remediate crossings that are acting as barriers</td>
+      <td id="T_0a22c_row0_col2" class="data row0 col2" >This action represents some projects that would be led by the planning team with conservation funds (e.g., orphaned barriers or those owned by individuals), while other remediation projects would be the responsibility of the barrier owner. Industry will have to be engaged to successfully implement this intervention. 
 
 PSC Southern Boundary Restoration and Enhancement Fund proposal:          
 
@@ -82,86 +79,86 @@ CNFASAR proposal (2022-26):
 
 HRR Can help with finding local people to implement remediation projects.
 </td>
-      <td id="T_ec38a_row0_col3" class="data row0 col3" >High</td>
-      <td id="T_ec38a_row0_col4" class="data row0 col4" >Very high</td>
-      <td id="T_ec38a_row0_col5" class="data row0 col5" >Effective</td>
+      <td id="T_0a22c_row0_col3" class="data row0 col3" >High</td>
+      <td id="T_0a22c_row0_col4" class="data row0 col4" >Very high</td>
+      <td id="T_0a22c_row0_col5" class="data row0 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row1_col0" class="data row1 col0" >1.2</td>
-      <td id="T_ec38a_row1_col1" class="data row1 col1" >Lobby that the government enforce their regulations</td>
-      <td id="T_ec38a_row1_col2" class="data row1 col2" >This can apply to both provincial and federal governments. For example, advocating for increased discretionary decisions to remove barriers to fish. One action could be to submit barrier assessment data to show proof that regulations are not being followed.</td>
-      <td id="T_ec38a_row1_col3" class="data row1 col3" >Very high</td>
-      <td id="T_ec38a_row1_col4" class="data row1 col4" >High</td>
-      <td id="T_ec38a_row1_col5" class="data row1 col5" >Effective</td>
+      <td id="T_0a22c_row1_col0" class="data row1 col0" >1.2</td>
+      <td id="T_0a22c_row1_col1" class="data row1 col1" >Lobby that the government enforce their regulations</td>
+      <td id="T_0a22c_row1_col2" class="data row1 col2" >This can apply to both provincial and federal governments. For example, advocating for increased discretionary decisions to remove barriers to fish. One action could be to submit barrier assessment data to show proof that regulations are not being followed.</td>
+      <td id="T_0a22c_row1_col3" class="data row1 col3" >Very high</td>
+      <td id="T_0a22c_row1_col4" class="data row1 col4" >High</td>
+      <td id="T_0a22c_row1_col5" class="data row1 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row2_col0" class="data row2 col0" >1.3</td>
-      <td id="T_ec38a_row2_col1" class="data row2 col1" >Initiate a barrier owner outreach program for locations on the barrier remediation shortlist</td>
-      <td id="T_ec38a_row2_col2" class="data row2 col2" >Work with landowners / users (e.g., ATV groups) to identify and remediate their aquatic barriers. Education component can help prevent barriers in the first place. HRR to reach out to owners of confirmed barriers to discuss remediation options; CWF to reach out to provincial representatives.</td>
-      <td id="T_ec38a_row2_col3" class="data row2 col3" >Very high</td>
-      <td id="T_ec38a_row2_col4" class="data row2 col4" >Very high</td>
-      <td id="T_ec38a_row2_col5" class="data row2 col5" >Very effective</td>
+      <td id="T_0a22c_row2_col0" class="data row2 col0" >1.3</td>
+      <td id="T_0a22c_row2_col1" class="data row2 col1" >Initiate a barrier owner outreach program for locations on the barrier remediation shortlist</td>
+      <td id="T_0a22c_row2_col2" class="data row2 col2" >Work with landowners / users (e.g., ATV groups) to identify and remediate their aquatic barriers. Education component can help prevent barriers in the first place. HRR to reach out to owners of confirmed barriers to discuss remediation options; CWF to reach out to provincial representatives.</td>
+      <td id="T_0a22c_row2_col3" class="data row2 col3" >Very high</td>
+      <td id="T_0a22c_row2_col4" class="data row2 col4" >Very high</td>
+      <td id="T_0a22c_row2_col5" class="data row2 col5" >Very effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row3_col0" class="data row3 col0" >1.4</td>
-      <td id="T_ec38a_row3_col1" class="data row3 col1" >Knowledge Gap: Continue updating the barrier prioritization model</td>
-      <td id="T_ec38a_row3_col2" class="data row3 col2" >The model has been updated to reflect 2021 field assessments and intermediate barrier review.</td>
-      <td id="T_ec38a_row3_col3" class="data row3 col3" >Very high</td>
-      <td id="T_ec38a_row3_col4" class="data row3 col4" >High</td>
-      <td id="T_ec38a_row3_col5" class="data row3 col5" >Effective</td>
+      <td id="T_0a22c_row3_col0" class="data row3 col0" >1.4</td>
+      <td id="T_0a22c_row3_col1" class="data row3 col1" >Knowledge Gap: Continue updating the barrier prioritization model</td>
+      <td id="T_0a22c_row3_col2" class="data row3 col2" >The model has been updated to reflect 2021 field assessments and intermediate barrier review.</td>
+      <td id="T_0a22c_row3_col3" class="data row3 col3" >Very high</td>
+      <td id="T_0a22c_row3_col4" class="data row3 col4" >High</td>
+      <td id="T_0a22c_row3_col5" class="data row3 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row4_col0" class="data row4 col0" >1.5</td>
-      <td id="T_ec38a_row4_col1" class="data row4 col1" >Knowledge Gap: conduct field assessments on updated preliminary barrier list using the provincial fish passage framework and update connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
-      <td id="T_ec38a_row4_col2" class="data row4 col2" >Twenty-six field assessments performed in 2021.</td>
-      <td id="T_ec38a_row4_col3" class="data row4 col3" >Very high</td>
-      <td id="T_ec38a_row4_col4" class="data row4 col4" >Very high</td>
-      <td id="T_ec38a_row4_col5" class="data row4 col5" >Very effective</td>
+      <td id="T_0a22c_row4_col0" class="data row4 col0" >1.5</td>
+      <td id="T_0a22c_row4_col1" class="data row4 col1" >Knowledge Gap: conduct field assessments on updated preliminary barrier list using the provincial fish passage framework and update connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
+      <td id="T_0a22c_row4_col2" class="data row4 col2" >Twenty-six field assessments performed in 2021.</td>
+      <td id="T_0a22c_row4_col3" class="data row4 col3" >Very high</td>
+      <td id="T_0a22c_row4_col4" class="data row4 col4" >Very high</td>
+      <td id="T_0a22c_row4_col5" class="data row4 col5" >Very effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row5_col0" class="data row5 col0" >1.6</td>
-      <td id="T_ec38a_row5_col1" class="data row5 col1" >Update longitudinal connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
-      <td id="T_ec38a_row5_col2" class="data row5 col2" ></td>
-      <td id="T_ec38a_row5_col3" class="data row5 col3" ></td>
-      <td id="T_ec38a_row5_col4" class="data row5 col4" ></td>
-      <td id="T_ec38a_row5_col5" class="data row5 col5" ></td>
+      <td id="T_0a22c_row5_col0" class="data row5 col0" >1.6</td>
+      <td id="T_0a22c_row5_col1" class="data row5 col1" >Update longitudinal connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
+      <td id="T_0a22c_row5_col2" class="data row5 col2" ></td>
+      <td id="T_0a22c_row5_col3" class="data row5 col3" ></td>
+      <td id="T_0a22c_row5_col4" class="data row5 col4" ></td>
+      <td id="T_0a22c_row5_col5" class="data row5 col5" ></td>
     </tr>
     <tr>
-      <td id="T_ec38a_row6_col0" class="data row6 col0" >1.7</td>
-      <td id="T_ec38a_row6_col1" class="data row6 col1" >Knowledge Gap: Identify and map crossing ownership</td>
-      <td id="T_ec38a_row6_col2" class="data row6 col2" >For barriers on the barrier remediation shortlist.</td>
-      <td id="T_ec38a_row6_col3" class="data row6 col3" >Very high</td>
-      <td id="T_ec38a_row6_col4" class="data row6 col4" >Very high</td>
-      <td id="T_ec38a_row6_col5" class="data row6 col5" >Very effective</td>
+      <td id="T_0a22c_row6_col0" class="data row6 col0" >1.7</td>
+      <td id="T_0a22c_row6_col1" class="data row6 col1" >Knowledge Gap: Identify and map crossing ownership</td>
+      <td id="T_0a22c_row6_col2" class="data row6 col2" >For barriers on the barrier remediation shortlist.</td>
+      <td id="T_0a22c_row6_col3" class="data row6 col3" >Very high</td>
+      <td id="T_0a22c_row6_col4" class="data row6 col4" >Very high</td>
+      <td id="T_0a22c_row6_col5" class="data row6 col5" >Very effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row7_col0" class="data row7 col0" >1.8</td>
-      <td id="T_ec38a_row7_col1" class="data row7 col1" >Knowledge Gap: Compile road maintenance schedules</td>
-      <td id="T_ec38a_row7_col2" class="data row7 col2" >Ground-truthing is important, as the schedules do not always reflect what happens in the field.</td>
-      <td id="T_ec38a_row7_col3" class="data row7 col3" >High</td>
-      <td id="T_ec38a_row7_col4" class="data row7 col4" >High</td>
-      <td id="T_ec38a_row7_col5" class="data row7 col5" >Effective</td>
+      <td id="T_0a22c_row7_col0" class="data row7 col0" >1.8</td>
+      <td id="T_0a22c_row7_col1" class="data row7 col1" >Knowledge Gap: Compile road maintenance schedules</td>
+      <td id="T_0a22c_row7_col2" class="data row7 col2" >Ground-truthing is important, as the schedules do not always reflect what happens in the field.</td>
+      <td id="T_0a22c_row7_col3" class="data row7 col3" >High</td>
+      <td id="T_0a22c_row7_col4" class="data row7 col4" >High</td>
+      <td id="T_0a22c_row7_col5" class="data row7 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row8_col0" class="data row8 col0" >1.9</td>
-      <td id="T_ec38a_row8_col1" class="data row8 col1" >Knowledge Gap: Survey trail-stream crossings to confirm low pressure rating values</td>
-      <td id="T_ec38a_row8_col2" class="data row8 col2" >Need to access detailed trail maps in the watershed to prioritize our time and resources. This should be accomplished as people are out surveying for other reasons rather than spending time and resources specifically to fill this knowledge gap.
+      <td id="T_0a22c_row8_col0" class="data row8 col0" >1.9</td>
+      <td id="T_0a22c_row8_col1" class="data row8 col1" >Knowledge Gap: Survey trail-stream crossings to confirm low pressure rating values</td>
+      <td id="T_0a22c_row8_col2" class="data row8 col2" >Need to access detailed trail maps in the watershed to prioritize our time and resources. This should be accomplished as people are out surveying for other reasons rather than spending time and resources specifically to fill this knowledge gap.
 CNFASAR proposal:
 Collaborate with WLFN to:
 - Develop field assessment protocols for whether ATV trail stream crossings pass fish, and for assessing other effects on fish habitat 
 - Map potential trail-stream crossings on salmon habitat that could be assessed 
 - Assess 30-50 trail stream crossings, record measurements, and take pictures</td>
-      <td id="T_ec38a_row8_col3" class="data row8 col3" >Very high</td>
-      <td id="T_ec38a_row8_col4" class="data row8 col4" >Medium</td>
-      <td id="T_ec38a_row8_col5" class="data row8 col5" >Need more information</td>
+      <td id="T_0a22c_row8_col3" class="data row8 col3" >Very high</td>
+      <td id="T_0a22c_row8_col4" class="data row8 col4" >Medium</td>
+      <td id="T_0a22c_row8_col5" class="data row8 col5" >Need more information</td>
     </tr>
     <tr>
-      <td id="T_ec38a_row9_col0" class="data row9 col0" ></td>
-      <td id="T_ec38a_row9_col1" class="data row9 col1" ></td>
-      <td id="T_ec38a_row9_col2" class="data row9 col2" ></td>
-      <td id="T_ec38a_row9_col3" class="data row9 col3" ></td>
-      <td id="T_ec38a_row9_col4" class="data row9 col4" ></td>
-      <td id="T_ec38a_row9_col5" class="data row9 col5" ></td>
+      <td id="T_0a22c_row9_col0" class="data row9 col0" ></td>
+      <td id="T_0a22c_row9_col1" class="data row9 col1" ></td>
+      <td id="T_0a22c_row9_col2" class="data row9 col2" ></td>
+      <td id="T_0a22c_row9_col3" class="data row9 col3" ></td>
+      <td id="T_0a22c_row9_col4" class="data row9 col4" ></td>
+      <td id="T_0a22c_row9_col5" class="data row9 col5" ></td>
     </tr>
   </tbody>
 </table>
@@ -171,9 +168,6 @@ Collaborate with WLFN to:
 
 :::
 :::
-
-
-
 
 
 
@@ -191,64 +185,61 @@ Collaborate with WLFN to:
 
 
 
-
-
-
 ::: {#tbl-S2 .cell tbl-cap='Strategy 2'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_c5784 th {
+#T_af269 th {
   background-color: #008270;
   text-align: left;
 }
-#T_c5784_row0_col0, #T_c5784_row0_col1, #T_c5784_row0_col2, #T_c5784_row1_col0, #T_c5784_row1_col1, #T_c5784_row1_col2, #T_c5784_row2_col0, #T_c5784_row2_col1, #T_c5784_row2_col2, #T_c5784_row3_col0, #T_c5784_row3_col1, #T_c5784_row3_col2, #T_c5784_row4_col0, #T_c5784_row4_col1, #T_c5784_row4_col2 {
+#T_af269_row0_col0, #T_af269_row0_col1, #T_af269_row0_col2, #T_af269_row1_col0, #T_af269_row1_col1, #T_af269_row1_col2, #T_af269_row2_col0, #T_af269_row2_col1, #T_af269_row2_col2, #T_af269_row3_col0, #T_af269_row3_col1, #T_af269_row3_col2, #T_af269_row4_col0, #T_af269_row4_col1, #T_af269_row4_col2 {
   background-color: white;
   text-align: left;
 }
-#T_c5784_row0_col3, #T_c5784_row0_col5 {
+#T_af269_row0_col3, #T_af269_row0_col5 {
   background-color: #03853e;
   text-align: left;
 }
-#T_c5784_row0_col4, #T_c5784_row1_col3, #T_c5784_row1_col4, #T_c5784_row1_col5, #T_c5784_row2_col3, #T_c5784_row2_col4, #T_c5784_row2_col5, #T_c5784_row3_col3, #T_c5784_row3_col4, #T_c5784_row3_col5, #T_c5784_row4_col3, #T_c5784_row4_col4, #T_c5784_row4_col5 {
+#T_af269_row0_col4, #T_af269_row1_col3, #T_af269_row1_col4, #T_af269_row1_col5, #T_af269_row2_col3, #T_af269_row2_col4, #T_af269_row2_col5, #T_af269_row3_col3, #T_af269_row3_col4, #T_af269_row3_col5, #T_af269_row4_col3, #T_af269_row4_col4, #T_af269_row4_col5 {
   background-color: #92d050;
   text-align: left;
 }
 </style>
-<table id="T_c5784">
+<table id="T_af269">
   <thead>
     <tr>
-      <th id="T_c5784_level0_col0" class="col_heading level0 col0" >ID</th>
-      <th id="T_c5784_level0_col1" class="col_heading level0 col1" >Actions</th>
-      <th id="T_c5784_level0_col2" class="col_heading level0 col2" >Details</th>
-      <th id="T_c5784_level0_col3" class="col_heading level0 col3" >Feasibility</th>
-      <th id="T_c5784_level0_col4" class="col_heading level0 col4" >Impact</th>
-      <th id="T_c5784_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
+      <th id="T_af269_level0_col0" class="col_heading level0 col0" >ID</th>
+      <th id="T_af269_level0_col1" class="col_heading level0 col1" >Actions</th>
+      <th id="T_af269_level0_col2" class="col_heading level0 col2" >Details</th>
+      <th id="T_af269_level0_col3" class="col_heading level0 col3" >Feasibility</th>
+      <th id="T_af269_level0_col4" class="col_heading level0 col4" >Impact</th>
+      <th id="T_af269_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_c5784_row0_col0" class="data row0 col0" >2.1</td>
-      <td id="T_c5784_row0_col1" class="data row0 col1" >Remediate dikes / berms / other lateral barriers</td>
-      <td id="T_c5784_row0_col2" class="data row0 col2" ></td>
-      <td id="T_c5784_row0_col3" class="data row0 col3" >High</td>
-      <td id="T_c5784_row0_col4" class="data row0 col4" >Very high</td>
-      <td id="T_c5784_row0_col5" class="data row0 col5" >Effective</td>
+      <td id="T_af269_row0_col0" class="data row0 col0" >2.1</td>
+      <td id="T_af269_row0_col1" class="data row0 col1" >Remediate dikes / berms / other lateral barriers</td>
+      <td id="T_af269_row0_col2" class="data row0 col2" ></td>
+      <td id="T_af269_row0_col3" class="data row0 col3" >High</td>
+      <td id="T_af269_row0_col4" class="data row0 col4" >Very high</td>
+      <td id="T_af269_row0_col5" class="data row0 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_c5784_row1_col0" class="data row1 col0" >2.2</td>
-      <td id="T_c5784_row1_col1" class="data row1 col1" >Initiate a barrier owner outreach program</td>
-      <td id="T_c5784_row1_col2" class="data row1 col2" ></td>
-      <td id="T_c5784_row1_col3" class="data row1 col3" >Very high</td>
-      <td id="T_c5784_row1_col4" class="data row1 col4" >Very high</td>
-      <td id="T_c5784_row1_col5" class="data row1 col5" >Very effective</td>
+      <td id="T_af269_row1_col0" class="data row1 col0" >2.2</td>
+      <td id="T_af269_row1_col1" class="data row1 col1" >Initiate a barrier owner outreach program</td>
+      <td id="T_af269_row1_col2" class="data row1 col2" ></td>
+      <td id="T_af269_row1_col3" class="data row1 col3" >Very high</td>
+      <td id="T_af269_row1_col4" class="data row1 col4" >Very high</td>
+      <td id="T_af269_row1_col5" class="data row1 col5" >Very effective</td>
     </tr>
     <tr>
-      <td id="T_c5784_row2_col0" class="data row2 col0" >2.3</td>
-      <td id="T_c5784_row2_col1" class="data row2 col1" >Knowledge Gap: Identify and map year-round lateral habitat, as well as overwintering habitat</td>
-      <td id="T_c5784_row2_col2" class="data row2 col2" >Explore the use of a drone to identify lateral habitat.  
+      <td id="T_af269_row2_col0" class="data row2 col0" >2.3</td>
+      <td id="T_af269_row2_col1" class="data row2 col1" >Knowledge Gap: Identify and map year-round lateral habitat, as well as overwintering habitat</td>
+      <td id="T_af269_row2_col2" class="data row2 col2" >Explore the use of a drone to identify lateral habitat.  
 
 - Volunteers from the HRR will conduct field habitat assessments following modules in the Pacific Streamkeepers Handbook to assess disconnected lateral and overwintering salmon habitats in the Horsefly watershed 
 
@@ -256,25 +247,25 @@ CNFASAR proposal:
 
 
  -Funding for equipment in 2022-2023, and for field transportation in 2022-2023, 2023-2024</td>
-      <td id="T_c5784_row2_col3" class="data row2 col3" >Very high</td>
-      <td id="T_c5784_row2_col4" class="data row2 col4" >Very high</td>
-      <td id="T_c5784_row2_col5" class="data row2 col5" >Very effective</td>
+      <td id="T_af269_row2_col3" class="data row2 col3" >Very high</td>
+      <td id="T_af269_row2_col4" class="data row2 col4" >Very high</td>
+      <td id="T_af269_row2_col5" class="data row2 col5" >Very effective</td>
     </tr>
     <tr>
-      <td id="T_c5784_row3_col0" class="data row3 col0" >2.4</td>
-      <td id="T_c5784_row3_col1" class="data row3 col1" >Knowledge Gap: Map lateral barriers and barrier ownership</td>
-      <td id="T_c5784_row3_col2" class="data row3 col2" >Focus on identifying ownership of priority lateral barriers that we want to remediate in the short-term.</td>
-      <td id="T_c5784_row3_col3" class="data row3 col3" >Very high</td>
-      <td id="T_c5784_row3_col4" class="data row3 col4" >Very high</td>
-      <td id="T_c5784_row3_col5" class="data row3 col5" >Very effective</td>
+      <td id="T_af269_row3_col0" class="data row3 col0" >2.4</td>
+      <td id="T_af269_row3_col1" class="data row3 col1" >Knowledge Gap: Map lateral barriers and barrier ownership</td>
+      <td id="T_af269_row3_col2" class="data row3 col2" >Focus on identifying ownership of priority lateral barriers that we want to remediate in the short-term.</td>
+      <td id="T_af269_row3_col3" class="data row3 col3" >Very high</td>
+      <td id="T_af269_row3_col4" class="data row3 col4" >Very high</td>
+      <td id="T_af269_row3_col5" class="data row3 col5" >Very effective</td>
     </tr>
     <tr>
-      <td id="T_c5784_row4_col0" class="data row4 col0" >2.5</td>
-      <td id="T_c5784_row4_col1" class="data row4 col1" >Knowledge Gap: Develop a framework to assess and prioritize between different lateral barrier remediation projects</td>
-      <td id="T_c5784_row4_col2" class="data row4 col2" >CWF is leading a provincial-scale analysis of the effect of rail lines on connectivity for Anadromous Salmonids, as part of this project lateral habitat and barrier assessments and prioritization methods will be developed.</td>
-      <td id="T_c5784_row4_col3" class="data row4 col3" >Very high</td>
-      <td id="T_c5784_row4_col4" class="data row4 col4" >Very high</td>
-      <td id="T_c5784_row4_col5" class="data row4 col5" >Very effective</td>
+      <td id="T_af269_row4_col0" class="data row4 col0" >2.5</td>
+      <td id="T_af269_row4_col1" class="data row4 col1" >Knowledge Gap: Develop a framework to assess and prioritize between different lateral barrier remediation projects</td>
+      <td id="T_af269_row4_col2" class="data row4 col2" >CWF is leading a provincial-scale analysis of the effect of rail lines on connectivity for Anadromous Salmonids, as part of this project lateral habitat and barrier assessments and prioritization methods will be developed.</td>
+      <td id="T_af269_row4_col3" class="data row4 col3" >Very high</td>
+      <td id="T_af269_row4_col4" class="data row4 col4" >Very high</td>
+      <td id="T_af269_row4_col5" class="data row4 col5" >Very effective</td>
     </tr>
   </tbody>
 </table>
@@ -284,9 +275,6 @@ CNFASAR proposal:
 
 :::
 :::
-
-
-
 
 
 
@@ -304,95 +292,92 @@ CNFASAR proposal:
 
 
 
-
-
-
 ::: {#tbl-S3 .cell tbl-cap='Strategy 3'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_f1932 th {
+#T_dfb7b th {
   background-color: #008270;
   text-align: left;
 }
-#T_f1932_row0_col0, #T_f1932_row0_col1, #T_f1932_row0_col2, #T_f1932_row1_col0, #T_f1932_row1_col1, #T_f1932_row1_col2, #T_f1932_row2_col0, #T_f1932_row2_col1, #T_f1932_row2_col2, #T_f1932_row3_col0, #T_f1932_row3_col1, #T_f1932_row3_col2, #T_f1932_row4_col0, #T_f1932_row4_col1, #T_f1932_row4_col2, #T_f1932_row5_col0, #T_f1932_row5_col1, #T_f1932_row5_col2 {
+#T_dfb7b_row0_col0, #T_dfb7b_row0_col1, #T_dfb7b_row0_col2, #T_dfb7b_row1_col0, #T_dfb7b_row1_col1, #T_dfb7b_row1_col2, #T_dfb7b_row2_col0, #T_dfb7b_row2_col1, #T_dfb7b_row2_col2, #T_dfb7b_row3_col0, #T_dfb7b_row3_col1, #T_dfb7b_row3_col2, #T_dfb7b_row4_col0, #T_dfb7b_row4_col1, #T_dfb7b_row4_col2, #T_dfb7b_row5_col0, #T_dfb7b_row5_col1, #T_dfb7b_row5_col2 {
   background-color: white;
   text-align: left;
 }
-#T_f1932_row0_col3, #T_f1932_row0_col5, #T_f1932_row1_col3, #T_f1932_row1_col5, #T_f1932_row2_col4, #T_f1932_row2_col5 {
+#T_dfb7b_row0_col3, #T_dfb7b_row0_col5, #T_dfb7b_row1_col3, #T_dfb7b_row1_col5, #T_dfb7b_row2_col4, #T_dfb7b_row2_col5 {
   background-color: #ffff00;
   text-align: left;
 }
-#T_f1932_row0_col4, #T_f1932_row3_col3, #T_f1932_row4_col3, #T_f1932_row5_col3, #T_f1932_row5_col4, #T_f1932_row5_col5 {
+#T_dfb7b_row0_col4, #T_dfb7b_row3_col3, #T_dfb7b_row4_col3, #T_dfb7b_row5_col3, #T_dfb7b_row5_col4, #T_dfb7b_row5_col5 {
   background-color: #92d050;
   text-align: left;
 }
-#T_f1932_row1_col4, #T_f1932_row2_col3, #T_f1932_row3_col4, #T_f1932_row3_col5, #T_f1932_row4_col4, #T_f1932_row4_col5 {
+#T_dfb7b_row1_col4, #T_dfb7b_row2_col3, #T_dfb7b_row3_col4, #T_dfb7b_row3_col5, #T_dfb7b_row4_col4, #T_dfb7b_row4_col5 {
   background-color: #03853e;
   text-align: left;
 }
 </style>
-<table id="T_f1932">
+<table id="T_dfb7b">
   <thead>
     <tr>
-      <th id="T_f1932_level0_col0" class="col_heading level0 col0" >ID</th>
-      <th id="T_f1932_level0_col1" class="col_heading level0 col1" >Actions</th>
-      <th id="T_f1932_level0_col2" class="col_heading level0 col2" >Details</th>
-      <th id="T_f1932_level0_col3" class="col_heading level0 col3" >Feasibility</th>
-      <th id="T_f1932_level0_col4" class="col_heading level0 col4" >Impact</th>
-      <th id="T_f1932_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
+      <th id="T_dfb7b_level0_col0" class="col_heading level0 col0" >ID</th>
+      <th id="T_dfb7b_level0_col1" class="col_heading level0 col1" >Actions</th>
+      <th id="T_dfb7b_level0_col2" class="col_heading level0 col2" >Details</th>
+      <th id="T_dfb7b_level0_col3" class="col_heading level0 col3" >Feasibility</th>
+      <th id="T_dfb7b_level0_col4" class="col_heading level0 col4" >Impact</th>
+      <th id="T_dfb7b_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_f1932_row0_col0" class="data row0 col0" >3.1</td>
-      <td id="T_f1932_row0_col1" class="data row0 col1" >Remediate Dams</td>
-      <td id="T_f1932_row0_col2" class="data row0 col2" ></td>
-      <td id="T_f1932_row0_col3" class="data row0 col3" >Medium</td>
-      <td id="T_f1932_row0_col4" class="data row0 col4" >Very high</td>
-      <td id="T_f1932_row0_col5" class="data row0 col5" >Need more information</td>
+      <td id="T_dfb7b_row0_col0" class="data row0 col0" >3.1</td>
+      <td id="T_dfb7b_row0_col1" class="data row0 col1" >Remediate Dams</td>
+      <td id="T_dfb7b_row0_col2" class="data row0 col2" ></td>
+      <td id="T_dfb7b_row0_col3" class="data row0 col3" >Medium</td>
+      <td id="T_dfb7b_row0_col4" class="data row0 col4" >Very high</td>
+      <td id="T_dfb7b_row0_col5" class="data row0 col5" >Need more information</td>
     </tr>
     <tr>
-      <td id="T_f1932_row1_col0" class="data row1 col0" >3.2</td>
-      <td id="T_f1932_row1_col1" class="data row1 col1" >Install Fish Passage</td>
-      <td id="T_f1932_row1_col2" class="data row1 col2" ></td>
-      <td id="T_f1932_row1_col3" class="data row1 col3" >Medium</td>
-      <td id="T_f1932_row1_col4" class="data row1 col4" >High</td>
-      <td id="T_f1932_row1_col5" class="data row1 col5" >Need more information</td>
+      <td id="T_dfb7b_row1_col0" class="data row1 col0" >3.2</td>
+      <td id="T_dfb7b_row1_col1" class="data row1 col1" >Install Fish Passage</td>
+      <td id="T_dfb7b_row1_col2" class="data row1 col2" ></td>
+      <td id="T_dfb7b_row1_col3" class="data row1 col3" >Medium</td>
+      <td id="T_dfb7b_row1_col4" class="data row1 col4" >High</td>
+      <td id="T_dfb7b_row1_col5" class="data row1 col5" >Need more information</td>
     </tr>
     <tr>
-      <td id="T_f1932_row2_col0" class="data row2 col0" >3.3</td>
-      <td id="T_f1932_row2_col1" class="data row2 col1" >Connect with Cattleman's Association to explore a partnership to remediate dams</td>
-      <td id="T_f1932_row2_col2" class="data row2 col2" >This may involve exploring alternative water management actions that would allow for the remediation of irrigation dams.</td>
-      <td id="T_f1932_row2_col3" class="data row2 col3" >High</td>
-      <td id="T_f1932_row2_col4" class="data row2 col4" >Medium</td>
-      <td id="T_f1932_row2_col5" class="data row2 col5" >Need more information</td>
+      <td id="T_dfb7b_row2_col0" class="data row2 col0" >3.3</td>
+      <td id="T_dfb7b_row2_col1" class="data row2 col1" >Connect with Cattleman's Association to explore a partnership to remediate dams</td>
+      <td id="T_dfb7b_row2_col2" class="data row2 col2" >This may involve exploring alternative water management actions that would allow for the remediation of irrigation dams.</td>
+      <td id="T_dfb7b_row2_col3" class="data row2 col3" >High</td>
+      <td id="T_dfb7b_row2_col4" class="data row2 col4" >Medium</td>
+      <td id="T_dfb7b_row2_col5" class="data row2 col5" >Need more information</td>
     </tr>
     <tr>
-      <td id="T_f1932_row3_col0" class="data row3 col0" >3.4</td>
-      <td id="T_f1932_row3_col1" class="data row3 col1" >Knowledge Gap: Continue updating the barrier prioritization model</td>
-      <td id="T_f1932_row3_col2" class="data row3 col2" >The model has been updated to reflect 2021 field assessments and intermediate barrier review.</td>
-      <td id="T_f1932_row3_col3" class="data row3 col3" >Very high</td>
-      <td id="T_f1932_row3_col4" class="data row3 col4" >High</td>
-      <td id="T_f1932_row3_col5" class="data row3 col5" >Effective</td>
+      <td id="T_dfb7b_row3_col0" class="data row3 col0" >3.4</td>
+      <td id="T_dfb7b_row3_col1" class="data row3 col1" >Knowledge Gap: Continue updating the barrier prioritization model</td>
+      <td id="T_dfb7b_row3_col2" class="data row3 col2" >The model has been updated to reflect 2021 field assessments and intermediate barrier review.</td>
+      <td id="T_dfb7b_row3_col3" class="data row3 col3" >Very high</td>
+      <td id="T_dfb7b_row3_col4" class="data row3 col4" >High</td>
+      <td id="T_dfb7b_row3_col5" class="data row3 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_f1932_row4_col0" class="data row4 col0" >3.5</td>
-      <td id="T_f1932_row4_col1" class="data row4 col1" >Knowledge Gap: Assess dams to determine whether they exist and are truly blocking fish habitat</td>
-      <td id="T_f1932_row4_col2" class="data row4 col2" >Four dams were assessed during 2021 field season; additional field assessment needed.</td>
-      <td id="T_f1932_row4_col3" class="data row4 col3" >Very high</td>
-      <td id="T_f1932_row4_col4" class="data row4 col4" >High</td>
-      <td id="T_f1932_row4_col5" class="data row4 col5" >Effective</td>
+      <td id="T_dfb7b_row4_col0" class="data row4 col0" >3.5</td>
+      <td id="T_dfb7b_row4_col1" class="data row4 col1" >Knowledge Gap: Assess dams to determine whether they exist and are truly blocking fish habitat</td>
+      <td id="T_dfb7b_row4_col2" class="data row4 col2" >Four dams were assessed during 2021 field season; additional field assessment needed.</td>
+      <td id="T_dfb7b_row4_col3" class="data row4 col3" >Very high</td>
+      <td id="T_dfb7b_row4_col4" class="data row4 col4" >High</td>
+      <td id="T_dfb7b_row4_col5" class="data row4 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_f1932_row5_col0" class="data row5 col0" >3.6</td>
-      <td id="T_f1932_row5_col1" class="data row5 col1" >Knowledge Gap: Identify and map dam ownership</td>
-      <td id="T_f1932_row5_col2" class="data row5 col2" ></td>
-      <td id="T_f1932_row5_col3" class="data row5 col3" >Very high</td>
-      <td id="T_f1932_row5_col4" class="data row5 col4" >Very high</td>
-      <td id="T_f1932_row5_col5" class="data row5 col5" >Very effective</td>
+      <td id="T_dfb7b_row5_col0" class="data row5 col0" >3.6</td>
+      <td id="T_dfb7b_row5_col1" class="data row5 col1" >Knowledge Gap: Identify and map dam ownership</td>
+      <td id="T_dfb7b_row5_col2" class="data row5 col2" ></td>
+      <td id="T_dfb7b_row5_col3" class="data row5 col3" >Very high</td>
+      <td id="T_dfb7b_row5_col4" class="data row5 col4" >Very high</td>
+      <td id="T_dfb7b_row5_col5" class="data row5 col5" >Very effective</td>
     </tr>
   </tbody>
 </table>
@@ -402,9 +387,6 @@ CNFASAR proposal:
 
 :::
 :::
-
-
-
 
 
 
@@ -422,63 +404,60 @@ CNFASAR proposal:
 
 
 
-
-
-
 ::: {#tbl-S4 .cell tbl-cap='Strategy 4'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_a84a3 th {
+#T_ef074 th {
   background-color: #008270;
   text-align: left;
 }
-#T_a84a3_row0_col0, #T_a84a3_row0_col1, #T_a84a3_row0_col2, #T_a84a3_row1_col0, #T_a84a3_row1_col1, #T_a84a3_row1_col2 {
+#T_ef074_row0_col0, #T_ef074_row0_col1, #T_ef074_row0_col2, #T_ef074_row1_col0, #T_ef074_row1_col1, #T_ef074_row1_col2 {
   background-color: white;
   text-align: left;
 }
-#T_a84a3_row0_col3, #T_a84a3_row1_col3 {
+#T_ef074_row0_col3, #T_ef074_row1_col3 {
   background-color: #92d050;
   text-align: left;
 }
-#T_a84a3_row0_col4, #T_a84a3_row0_col5 {
+#T_ef074_row0_col4, #T_ef074_row0_col5 {
   background-color: #03853e;
   text-align: left;
 }
-#T_a84a3_row1_col4, #T_a84a3_row1_col5 {
+#T_ef074_row1_col4, #T_ef074_row1_col5 {
   background-color: #ffff00;
   text-align: left;
 }
 </style>
-<table id="T_a84a3">
+<table id="T_ef074">
   <thead>
     <tr>
-      <th id="T_a84a3_level0_col0" class="col_heading level0 col0" >ID</th>
-      <th id="T_a84a3_level0_col1" class="col_heading level0 col1" >Actions</th>
-      <th id="T_a84a3_level0_col2" class="col_heading level0 col2" >Details</th>
-      <th id="T_a84a3_level0_col3" class="col_heading level0 col3" >Feasibility</th>
-      <th id="T_a84a3_level0_col4" class="col_heading level0 col4" >Impact</th>
-      <th id="T_a84a3_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
+      <th id="T_ef074_level0_col0" class="col_heading level0 col0" >ID</th>
+      <th id="T_ef074_level0_col1" class="col_heading level0 col1" >Actions</th>
+      <th id="T_ef074_level0_col2" class="col_heading level0 col2" >Details</th>
+      <th id="T_ef074_level0_col3" class="col_heading level0 col3" >Feasibility</th>
+      <th id="T_ef074_level0_col4" class="col_heading level0 col4" >Impact</th>
+      <th id="T_ef074_level0_col5" class="col_heading level0 col5" >Effectiveness</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_a84a3_row0_col0" class="data row0 col0" >4.1</td>
-      <td id="T_a84a3_row0_col1" class="data row0 col1" >Explore potential partnerships with industrial companies</td>
-      <td id="T_a84a3_row0_col2" class="data row0 col2" >Invite industrial players to a workshop on how to apply crossing / lateral barrier BMPs. BMPs could include those that minimize the need for road-stream crossings.</td>
-      <td id="T_a84a3_row0_col3" class="data row0 col3" >Very high</td>
-      <td id="T_a84a3_row0_col4" class="data row0 col4" >High</td>
-      <td id="T_a84a3_row0_col5" class="data row0 col5" >Effective</td>
+      <td id="T_ef074_row0_col0" class="data row0 col0" >4.1</td>
+      <td id="T_ef074_row0_col1" class="data row0 col1" >Explore potential partnerships with industrial companies</td>
+      <td id="T_ef074_row0_col2" class="data row0 col2" >Invite industrial players to a workshop on how to apply crossing / lateral barrier BMPs. BMPs could include those that minimize the need for road-stream crossings.</td>
+      <td id="T_ef074_row0_col3" class="data row0 col3" >Very high</td>
+      <td id="T_ef074_row0_col4" class="data row0 col4" >High</td>
+      <td id="T_ef074_row0_col5" class="data row0 col5" >Effective</td>
     </tr>
     <tr>
-      <td id="T_a84a3_row1_col0" class="data row1 col0" >4.2</td>
-      <td id="T_a84a3_row1_col1" class="data row1 col1" >Stabilize sediment sources that are explicitly linked to sediment wedges or erosion that are acting as barriers</td>
-      <td id="T_a84a3_row1_col2" class="data row1 col2" >This could include numerous bank stabilization techniques, including restoring riparian vegetation. This applies to some tributaries that have altered confluence areas - the link needs to be made between confluence alterations and timing of movement for juvenile fish. Local ranchers and Cattleman's association could be engaged, as well as forestry licensees.</td>
-      <td id="T_a84a3_row1_col3" class="data row1 col3" >Very high</td>
-      <td id="T_a84a3_row1_col4" class="data row1 col4" >Medium</td>
-      <td id="T_a84a3_row1_col5" class="data row1 col5" >Need more information</td>
+      <td id="T_ef074_row1_col0" class="data row1 col0" >4.2</td>
+      <td id="T_ef074_row1_col1" class="data row1 col1" >Stabilize sediment sources that are explicitly linked to sediment wedges or erosion that are acting as barriers</td>
+      <td id="T_ef074_row1_col2" class="data row1 col2" >This could include numerous bank stabilization techniques, including restoring riparian vegetation. This applies to some tributaries that have altered confluence areas - the link needs to be made between confluence alterations and timing of movement for juvenile fish. Local ranchers and Cattleman's association could be engaged, as well as forestry licensees.</td>
+      <td id="T_ef074_row1_col3" class="data row1 col3" >Very high</td>
+      <td id="T_ef074_row1_col4" class="data row1 col4" >Medium</td>
+      <td id="T_ef074_row1_col5" class="data row1 col5" >Need more information</td>
     </tr>
   </tbody>
 </table>
@@ -488,9 +467,6 @@ CNFASAR proposal:
 
 :::
 :::
-
-
-
 
 
 
@@ -507,42 +483,39 @@ CNFASAR proposal:
 
 
 
-
-
-
 ::: {#tbl-S5 .cell tbl-cap='Strategy 5'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_b234b th {
+#T_ac843 th {
   background-color: #008270;
   text-align: left;
 }
-#T_b234b_row0_col0, #T_b234b_row0_col1, #T_b234b_row0_col2, #T_b234b_row1_col0, #T_b234b_row1_col1, #T_b234b_row1_col2 {
+#T_ac843_row0_col0, #T_ac843_row0_col1, #T_ac843_row0_col2, #T_ac843_row1_col0, #T_ac843_row1_col1, #T_ac843_row1_col2 {
   background-color: white;
   text-align: left;
 }
 </style>
-<table id="T_b234b">
+<table id="T_ac843">
   <thead>
     <tr>
-      <th id="T_b234b_level0_col0" class="col_heading level0 col0" >ID</th>
-      <th id="T_b234b_level0_col1" class="col_heading level0 col1" >Actions</th>
-      <th id="T_b234b_level0_col2" class="col_heading level0 col2" >Details</th>
+      <th id="T_ac843_level0_col0" class="col_heading level0 col0" >ID</th>
+      <th id="T_ac843_level0_col1" class="col_heading level0 col1" >Actions</th>
+      <th id="T_ac843_level0_col2" class="col_heading level0 col2" >Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_b234b_row0_col0" class="data row0 col0" >5.1</td>
-      <td id="T_b234b_row0_col1" class="data row0 col1" >Implement the WCRP Progress Tracking Plan</td>
-      <td id="T_b234b_row0_col2" class="data row0 col2" >The WCRP Progress Tracking Plan will help the team determine if we are achieving our goals and objectives.</td>
+      <td id="T_ac843_row0_col0" class="data row0 col0" >5.1</td>
+      <td id="T_ac843_row0_col1" class="data row0 col1" >Implement the WCRP Progress Tracking Plan</td>
+      <td id="T_ac843_row0_col2" class="data row0 col2" >The WCRP Progress Tracking Plan will help the team determine if we are achieving our goals and objectives.</td>
     </tr>
     <tr>
-      <td id="T_b234b_row1_col0" class="data row1 col0" >5.2</td>
-      <td id="T_b234b_row1_col1" class="data row1 col1" >Develop a communication strategy to raise awareness and support for this WCRP</td>
-      <td id="T_b234b_row1_col2" class="data row1 col2" >This intervention includes communicating both the WCRP and the collaborative process in developing it, as well as communicating outcomes (e.g., barrier remediations). CNFASAR proposal:
+      <td id="T_ac843_row1_col0" class="data row1 col0" >5.2</td>
+      <td id="T_ac843_row1_col1" class="data row1 col1" >Develop a communication strategy to raise awareness and support for this WCRP</td>
+      <td id="T_ac843_row1_col2" class="data row1 col2" >This intervention includes communicating both the WCRP and the collaborative process in developing it, as well as communicating outcomes (e.g., barrier remediations). CNFASAR proposal:
 - HRR will work with CWF to develop outreach and communications materials, including press releases, social media content, a video, and content for their website
 - With HRR, CWF will present on fish passage issues and solutions at the annual Horsefly River Salmon Festival</td>
     </tr>
@@ -554,9 +527,6 @@ CNFASAR proposal:
 
 :::
 :::
-
-
-
 
 
 
@@ -588,229 +558,226 @@ The operational plan represents a preliminary exercise undertaken by the plannin
 
 
 
-
-
-
 ::: {#tbl-opplan .cell tbl-cap='Operational plan to support the implementation of strategies and actions to improve connectivity for target species in <watershed>.'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_2caaf th {
+#T_89173 th {
   background-color: #008270;
   text-align: left;
 }
-#T_2caaf_row0_col0, #T_2caaf_row0_col1, #T_2caaf_row0_col2, #T_2caaf_row0_col3, #T_2caaf_row10_col0, #T_2caaf_row10_col1, #T_2caaf_row10_col2, #T_2caaf_row10_col3, #T_2caaf_row16_col0, #T_2caaf_row16_col1, #T_2caaf_row16_col2, #T_2caaf_row16_col3, #T_2caaf_row23_col0, #T_2caaf_row23_col1, #T_2caaf_row23_col2, #T_2caaf_row23_col3, #T_2caaf_row26_col0, #T_2caaf_row26_col1, #T_2caaf_row26_col2, #T_2caaf_row26_col3, #T_2caaf_row29_col0, #T_2caaf_row29_col1, #T_2caaf_row29_col2, #T_2caaf_row29_col3, #T_2caaf_row30_col0, #T_2caaf_row30_col1, #T_2caaf_row30_col2, #T_2caaf_row30_col3, #T_2caaf_row31_col0, #T_2caaf_row31_col1, #T_2caaf_row31_col2, #T_2caaf_row31_col3 {
+#T_89173_row0_col0, #T_89173_row0_col1, #T_89173_row0_col2, #T_89173_row0_col3, #T_89173_row10_col0, #T_89173_row10_col1, #T_89173_row10_col2, #T_89173_row10_col3, #T_89173_row16_col0, #T_89173_row16_col1, #T_89173_row16_col2, #T_89173_row16_col3, #T_89173_row23_col0, #T_89173_row23_col1, #T_89173_row23_col2, #T_89173_row23_col3, #T_89173_row26_col0, #T_89173_row26_col1, #T_89173_row26_col2, #T_89173_row26_col3, #T_89173_row29_col0, #T_89173_row29_col1, #T_89173_row29_col2, #T_89173_row29_col3, #T_89173_row30_col0, #T_89173_row30_col1, #T_89173_row30_col2, #T_89173_row30_col3, #T_89173_row31_col0, #T_89173_row31_col1, #T_89173_row31_col2, #T_89173_row31_col3 {
   background-color: black;
   color: white;
   text-align: left;
 }
-#T_2caaf_row1_col0, #T_2caaf_row1_col1, #T_2caaf_row1_col2, #T_2caaf_row1_col3, #T_2caaf_row2_col0, #T_2caaf_row2_col1, #T_2caaf_row2_col2, #T_2caaf_row2_col3, #T_2caaf_row3_col0, #T_2caaf_row3_col1, #T_2caaf_row3_col2, #T_2caaf_row3_col3, #T_2caaf_row4_col0, #T_2caaf_row4_col1, #T_2caaf_row4_col2, #T_2caaf_row4_col3, #T_2caaf_row5_col0, #T_2caaf_row5_col1, #T_2caaf_row5_col2, #T_2caaf_row5_col3, #T_2caaf_row6_col0, #T_2caaf_row6_col1, #T_2caaf_row6_col2, #T_2caaf_row6_col3, #T_2caaf_row7_col0, #T_2caaf_row7_col1, #T_2caaf_row7_col2, #T_2caaf_row7_col3, #T_2caaf_row8_col0, #T_2caaf_row8_col1, #T_2caaf_row8_col2, #T_2caaf_row8_col3, #T_2caaf_row9_col0, #T_2caaf_row9_col1, #T_2caaf_row9_col2, #T_2caaf_row9_col3, #T_2caaf_row11_col0, #T_2caaf_row11_col1, #T_2caaf_row11_col2, #T_2caaf_row11_col3, #T_2caaf_row12_col0, #T_2caaf_row12_col1, #T_2caaf_row12_col2, #T_2caaf_row12_col3, #T_2caaf_row13_col0, #T_2caaf_row13_col1, #T_2caaf_row13_col2, #T_2caaf_row13_col3, #T_2caaf_row14_col0, #T_2caaf_row14_col1, #T_2caaf_row14_col2, #T_2caaf_row14_col3, #T_2caaf_row15_col0, #T_2caaf_row15_col1, #T_2caaf_row15_col2, #T_2caaf_row15_col3, #T_2caaf_row17_col0, #T_2caaf_row17_col1, #T_2caaf_row17_col2, #T_2caaf_row17_col3, #T_2caaf_row18_col0, #T_2caaf_row18_col1, #T_2caaf_row18_col2, #T_2caaf_row18_col3, #T_2caaf_row19_col0, #T_2caaf_row19_col1, #T_2caaf_row19_col2, #T_2caaf_row19_col3, #T_2caaf_row20_col0, #T_2caaf_row20_col1, #T_2caaf_row20_col2, #T_2caaf_row20_col3, #T_2caaf_row21_col0, #T_2caaf_row21_col1, #T_2caaf_row21_col2, #T_2caaf_row21_col3, #T_2caaf_row22_col0, #T_2caaf_row22_col1, #T_2caaf_row22_col2, #T_2caaf_row22_col3, #T_2caaf_row24_col0, #T_2caaf_row24_col1, #T_2caaf_row24_col2, #T_2caaf_row24_col3, #T_2caaf_row25_col0, #T_2caaf_row25_col1, #T_2caaf_row25_col2, #T_2caaf_row25_col3, #T_2caaf_row27_col0, #T_2caaf_row27_col1, #T_2caaf_row27_col2, #T_2caaf_row27_col3, #T_2caaf_row28_col0, #T_2caaf_row28_col1, #T_2caaf_row28_col2, #T_2caaf_row28_col3 {
+#T_89173_row1_col0, #T_89173_row1_col1, #T_89173_row1_col2, #T_89173_row1_col3, #T_89173_row2_col0, #T_89173_row2_col1, #T_89173_row2_col2, #T_89173_row2_col3, #T_89173_row3_col0, #T_89173_row3_col1, #T_89173_row3_col2, #T_89173_row3_col3, #T_89173_row4_col0, #T_89173_row4_col1, #T_89173_row4_col2, #T_89173_row4_col3, #T_89173_row5_col0, #T_89173_row5_col1, #T_89173_row5_col2, #T_89173_row5_col3, #T_89173_row6_col0, #T_89173_row6_col1, #T_89173_row6_col2, #T_89173_row6_col3, #T_89173_row7_col0, #T_89173_row7_col1, #T_89173_row7_col2, #T_89173_row7_col3, #T_89173_row8_col0, #T_89173_row8_col1, #T_89173_row8_col2, #T_89173_row8_col3, #T_89173_row9_col0, #T_89173_row9_col1, #T_89173_row9_col2, #T_89173_row9_col3, #T_89173_row11_col0, #T_89173_row11_col1, #T_89173_row11_col2, #T_89173_row11_col3, #T_89173_row12_col0, #T_89173_row12_col1, #T_89173_row12_col2, #T_89173_row12_col3, #T_89173_row13_col0, #T_89173_row13_col1, #T_89173_row13_col2, #T_89173_row13_col3, #T_89173_row14_col0, #T_89173_row14_col1, #T_89173_row14_col2, #T_89173_row14_col3, #T_89173_row15_col0, #T_89173_row15_col1, #T_89173_row15_col2, #T_89173_row15_col3, #T_89173_row17_col0, #T_89173_row17_col1, #T_89173_row17_col2, #T_89173_row17_col3, #T_89173_row18_col0, #T_89173_row18_col1, #T_89173_row18_col2, #T_89173_row18_col3, #T_89173_row19_col0, #T_89173_row19_col1, #T_89173_row19_col2, #T_89173_row19_col3, #T_89173_row20_col0, #T_89173_row20_col1, #T_89173_row20_col2, #T_89173_row20_col3, #T_89173_row21_col0, #T_89173_row21_col1, #T_89173_row21_col2, #T_89173_row21_col3, #T_89173_row22_col0, #T_89173_row22_col1, #T_89173_row22_col2, #T_89173_row22_col3, #T_89173_row24_col0, #T_89173_row24_col1, #T_89173_row24_col2, #T_89173_row24_col3, #T_89173_row25_col0, #T_89173_row25_col1, #T_89173_row25_col2, #T_89173_row25_col3, #T_89173_row27_col0, #T_89173_row27_col1, #T_89173_row27_col2, #T_89173_row27_col3, #T_89173_row28_col0, #T_89173_row28_col1, #T_89173_row28_col2, #T_89173_row28_col3 {
   text-align: left;
 }
 </style>
-<table id="T_2caaf">
+<table id="T_89173">
   <thead>
     <tr>
-      <th id="T_2caaf_level0_col0" class="col_heading level0 col0" >Strategy / Actions</th>
-      <th id="T_2caaf_level0_col1" class="col_heading level0 col1" >Lead(s) [1]</th>
-      <th id="T_2caaf_level0_col2" class="col_heading level0 col2" >Participants3</th>
-      <th id="T_2caaf_level0_col3" class="col_heading level0 col3" >Total Budget</th>
+      <th id="T_89173_level0_col0" class="col_heading level0 col0" >Strategy / Actions</th>
+      <th id="T_89173_level0_col1" class="col_heading level0 col1" >Lead(s) [1]</th>
+      <th id="T_89173_level0_col2" class="col_heading level0 col2" >Participants3</th>
+      <th id="T_89173_level0_col3" class="col_heading level0 col3" >Total Budget</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_2caaf_row0_col0" class="data row0 col0" >Strategy 1: Crossing Remediation</td>
-      <td id="T_2caaf_row0_col1" class="data row0 col1" ></td>
-      <td id="T_2caaf_row0_col2" class="data row0 col2" ></td>
-      <td id="T_2caaf_row0_col3" class="data row0 col3" >$3,666,300.00 </td>
+      <td id="T_89173_row0_col0" class="data row0 col0" >Strategy 1: Crossing Remediation</td>
+      <td id="T_89173_row0_col1" class="data row0 col1" ></td>
+      <td id="T_89173_row0_col2" class="data row0 col2" ></td>
+      <td id="T_89173_row0_col3" class="data row0 col3" >$3,666,300.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row1_col0" class="data row1 col0" >1.1 – Remediate crossings that are acting as barriers </td>
-      <td id="T_2caaf_row1_col1" class="data row1 col1" >CWF</td>
-      <td id="T_2caaf_row1_col2" class="data row1 col2" >Horsefly River Roundtable, Fisheries and Oceans Canada (DFO)</td>
-      <td id="T_2caaf_row1_col3" class="data row1 col3" >$3,500,000.00 </td>
+      <td id="T_89173_row1_col0" class="data row1 col0" >1.1 – Remediate crossings that are acting as barriers </td>
+      <td id="T_89173_row1_col1" class="data row1 col1" >CWF</td>
+      <td id="T_89173_row1_col2" class="data row1 col2" >Horsefly River Roundtable, Fisheries and Oceans Canada (DFO)</td>
+      <td id="T_89173_row1_col3" class="data row1 col3" >$3,500,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row2_col0" class="data row2 col0" >1.2 – Lobby that the government enforce their regulations</td>
-      <td id="T_2caaf_row2_col1" class="data row2 col1" >TBD</td>
-      <td id="T_2caaf_row2_col2" class="data row2 col2" >CWF, Horsefly River Roundtable, Williams Lake First Nation (WLFN)</td>
-      <td id="T_2caaf_row2_col3" class="data row2 col3" >$10,000.00 </td>
+      <td id="T_89173_row2_col0" class="data row2 col0" >1.2 – Lobby that the government enforce their regulations</td>
+      <td id="T_89173_row2_col1" class="data row2 col1" >TBD</td>
+      <td id="T_89173_row2_col2" class="data row2 col2" >CWF, Horsefly River Roundtable, Williams Lake First Nation (WLFN)</td>
+      <td id="T_89173_row2_col3" class="data row2 col3" >$10,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row3_col0" class="data row3 col0" >1.3 – Initiate a barrier owner outreach program for locations on the barrier remediation shortlist</td>
-      <td id="T_2caaf_row3_col1" class="data row3 col1" >HRR, CWF, DFO</td>
-      <td id="T_2caaf_row3_col2" class="data row3 col2" ></td>
-      <td id="T_2caaf_row3_col3" class="data row3 col3" >TBD</td>
+      <td id="T_89173_row3_col0" class="data row3 col0" >1.3 – Initiate a barrier owner outreach program for locations on the barrier remediation shortlist</td>
+      <td id="T_89173_row3_col1" class="data row3 col1" >HRR, CWF, DFO</td>
+      <td id="T_89173_row3_col2" class="data row3 col2" ></td>
+      <td id="T_89173_row3_col3" class="data row3 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row4_col0" class="data row4 col0" >1.4 – Knowledge Gap: Continue updating the barrier prioritization model</td>
-      <td id="T_2caaf_row4_col1" class="data row4 col1" >CWF</td>
-      <td id="T_2caaf_row4_col2" class="data row4 col2" >TBD</td>
-      <td id="T_2caaf_row4_col3" class="data row4 col3" >$100,000.00 </td>
+      <td id="T_89173_row4_col0" class="data row4 col0" >1.4 – Knowledge Gap: Continue updating the barrier prioritization model</td>
+      <td id="T_89173_row4_col1" class="data row4 col1" >CWF</td>
+      <td id="T_89173_row4_col2" class="data row4 col2" >TBD</td>
+      <td id="T_89173_row4_col3" class="data row4 col3" >$100,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row5_col0" class="data row5 col0" >1.5 – Knowledge Gap: conduct field assessments on updated preliminary barrier list using the provincial fish passage framework and update connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
-      <td id="T_2caaf_row5_col1" class="data row5 col1" >CWF</td>
-      <td id="T_2caaf_row5_col2" class="data row5 col2" >Horsefly River Roundtable, DFO</td>
-      <td id="T_2caaf_row5_col3" class="data row5 col3" >$50,300.00 </td>
+      <td id="T_89173_row5_col0" class="data row5 col0" >1.5 – Knowledge Gap: conduct field assessments on updated preliminary barrier list using the provincial fish passage framework and update connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
+      <td id="T_89173_row5_col1" class="data row5 col1" >CWF</td>
+      <td id="T_89173_row5_col2" class="data row5 col2" >Horsefly River Roundtable, DFO</td>
+      <td id="T_89173_row5_col3" class="data row5 col3" >$50,300.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row6_col0" class="data row6 col0" >1.6 - Update longitudinal connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
-      <td id="T_2caaf_row6_col1" class="data row6 col1" ></td>
-      <td id="T_2caaf_row6_col2" class="data row6 col2" ></td>
-      <td id="T_2caaf_row6_col3" class="data row6 col3" ></td>
+      <td id="T_89173_row6_col0" class="data row6 col0" >1.6 - Update longitudinal connectivity goal if additional barriers are added to the barrier remediation shortlist</td>
+      <td id="T_89173_row6_col1" class="data row6 col1" ></td>
+      <td id="T_89173_row6_col2" class="data row6 col2" ></td>
+      <td id="T_89173_row6_col3" class="data row6 col3" ></td>
     </tr>
     <tr>
-      <td id="T_2caaf_row7_col0" class="data row7 col0" >1.7 – Knowledge Gap: Identify and map crossing ownership for barriers on the barrier remediation shortlist</td>
-      <td id="T_2caaf_row7_col1" class="data row7 col1" >TBD</td>
-      <td id="T_2caaf_row7_col2" class="data row7 col2" >CWF, DFO (Anthonie)</td>
-      <td id="T_2caaf_row7_col3" class="data row7 col3" >$1,500.00 </td>
+      <td id="T_89173_row7_col0" class="data row7 col0" >1.7 – Knowledge Gap: Identify and map crossing ownership for barriers on the barrier remediation shortlist</td>
+      <td id="T_89173_row7_col1" class="data row7 col1" >TBD</td>
+      <td id="T_89173_row7_col2" class="data row7 col2" >CWF, DFO (Anthonie)</td>
+      <td id="T_89173_row7_col3" class="data row7 col3" >$1,500.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row8_col0" class="data row8 col0" >1.8 – Knowledge Gap: Compile road maintenance schedules</td>
-      <td id="T_2caaf_row8_col1" class="data row8 col1" >DFO</td>
-      <td id="T_2caaf_row8_col2" class="data row8 col2" >CWF, WLFN, DFO, FLNRORD</td>
-      <td id="T_2caaf_row8_col3" class="data row8 col3" >$2,000.00 </td>
+      <td id="T_89173_row8_col0" class="data row8 col0" >1.8 – Knowledge Gap: Compile road maintenance schedules</td>
+      <td id="T_89173_row8_col1" class="data row8 col1" >DFO</td>
+      <td id="T_89173_row8_col2" class="data row8 col2" >CWF, WLFN, DFO, FLNRORD</td>
+      <td id="T_89173_row8_col3" class="data row8 col3" >$2,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row9_col0" class="data row9 col0" >1.9 – Knowledge Gap: Survey trail-stream crossings to confirm low pressure rating values</td>
-      <td id="T_2caaf_row9_col1" class="data row9 col1" >WLFN</td>
-      <td id="T_2caaf_row9_col2" class="data row9 col2" >CWF, DFO</td>
-      <td id="T_2caaf_row9_col3" class="data row9 col3" >$2,500.00 </td>
+      <td id="T_89173_row9_col0" class="data row9 col0" >1.9 – Knowledge Gap: Survey trail-stream crossings to confirm low pressure rating values</td>
+      <td id="T_89173_row9_col1" class="data row9 col1" >WLFN</td>
+      <td id="T_89173_row9_col2" class="data row9 col2" >CWF, DFO</td>
+      <td id="T_89173_row9_col3" class="data row9 col3" >$2,500.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row10_col0" class="data row10 col0" >Strategy 2: Lateral Barrier Remediation</td>
-      <td id="T_2caaf_row10_col1" class="data row10 col1" ></td>
-      <td id="T_2caaf_row10_col2" class="data row10 col2" ></td>
-      <td id="T_2caaf_row10_col3" class="data row10 col3" >$80,000.00 </td>
+      <td id="T_89173_row10_col0" class="data row10 col0" >Strategy 2: Lateral Barrier Remediation</td>
+      <td id="T_89173_row10_col1" class="data row10 col1" ></td>
+      <td id="T_89173_row10_col2" class="data row10 col2" ></td>
+      <td id="T_89173_row10_col3" class="data row10 col3" >$80,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row11_col0" class="data row11 col0" >2.1 – Remediate dikes / berms / other structures that are acting as barriers</td>
-      <td id="T_2caaf_row11_col1" class="data row11 col1" >CWF</td>
-      <td id="T_2caaf_row11_col2" class="data row11 col2" >DFO, Horsefly River Roundtable</td>
-      <td id="T_2caaf_row11_col3" class="data row11 col3" >TBD</td>
+      <td id="T_89173_row11_col0" class="data row11 col0" >2.1 – Remediate dikes / berms / other structures that are acting as barriers</td>
+      <td id="T_89173_row11_col1" class="data row11 col1" >CWF</td>
+      <td id="T_89173_row11_col2" class="data row11 col2" >DFO, Horsefly River Roundtable</td>
+      <td id="T_89173_row11_col3" class="data row11 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row12_col0" class="data row12 col0" >2.2 – Initiate a barrier owner outreach program </td>
-      <td id="T_2caaf_row12_col1" class="data row12 col1" >TBD</td>
-      <td id="T_2caaf_row12_col2" class="data row12 col2" >CWF, DFO</td>
-      <td id="T_2caaf_row12_col3" class="data row12 col3" >TBD</td>
+      <td id="T_89173_row12_col0" class="data row12 col0" >2.2 – Initiate a barrier owner outreach program </td>
+      <td id="T_89173_row12_col1" class="data row12 col1" >TBD</td>
+      <td id="T_89173_row12_col2" class="data row12 col2" >CWF, DFO</td>
+      <td id="T_89173_row12_col3" class="data row12 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row13_col0" class="data row13 col0" >2.3 – Knowledge Gap: Identify and map year-round lateral habitat, as well as overwintering habitat</td>
-      <td id="T_2caaf_row13_col1" class="data row13 col1" >Horsefly River Roundtable, DFO</td>
-      <td id="T_2caaf_row13_col2" class="data row13 col2" >CWF, Northern Shuswap Tribal Council (NSTC), WLFN</td>
-      <td id="T_2caaf_row13_col3" class="data row13 col3" >$65,000.00 </td>
+      <td id="T_89173_row13_col0" class="data row13 col0" >2.3 – Knowledge Gap: Identify and map year-round lateral habitat, as well as overwintering habitat</td>
+      <td id="T_89173_row13_col1" class="data row13 col1" >Horsefly River Roundtable, DFO</td>
+      <td id="T_89173_row13_col2" class="data row13 col2" >CWF, Northern Shuswap Tribal Council (NSTC), WLFN</td>
+      <td id="T_89173_row13_col3" class="data row13 col3" >$65,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row14_col0" class="data row14 col0" >2.4 – Knowledge Gap: Map lateral barriers and barrier ownership</td>
-      <td id="T_2caaf_row14_col1" class="data row14 col1" >CWF</td>
-      <td id="T_2caaf_row14_col2" class="data row14 col2" >DFO, Horsefly River Roundtable</td>
-      <td id="T_2caaf_row14_col3" class="data row14 col3" >$5,000.00 </td>
+      <td id="T_89173_row14_col0" class="data row14 col0" >2.4 – Knowledge Gap: Map lateral barriers and barrier ownership</td>
+      <td id="T_89173_row14_col1" class="data row14 col1" >CWF</td>
+      <td id="T_89173_row14_col2" class="data row14 col2" >DFO, Horsefly River Roundtable</td>
+      <td id="T_89173_row14_col3" class="data row14 col3" >$5,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row15_col0" class="data row15 col0" >2.5 – Knowledge Gap: Develop a framework to assess and prioritize between different lateral barrier remediation projects</td>
-      <td id="T_2caaf_row15_col1" class="data row15 col1" >CWF</td>
-      <td id="T_2caaf_row15_col2" class="data row15 col2" >DFO</td>
-      <td id="T_2caaf_row15_col3" class="data row15 col3" >$10,000.00 </td>
+      <td id="T_89173_row15_col0" class="data row15 col0" >2.5 – Knowledge Gap: Develop a framework to assess and prioritize between different lateral barrier remediation projects</td>
+      <td id="T_89173_row15_col1" class="data row15 col1" >CWF</td>
+      <td id="T_89173_row15_col2" class="data row15 col2" >DFO</td>
+      <td id="T_89173_row15_col3" class="data row15 col3" >$10,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row16_col0" class="data row16 col0" >Strategy 3: Dam Remediation</td>
-      <td id="T_2caaf_row16_col1" class="data row16 col1" ></td>
-      <td id="T_2caaf_row16_col2" class="data row16 col2" ></td>
-      <td id="T_2caaf_row16_col3" class="data row16 col3" >$1,305,000.00 </td>
+      <td id="T_89173_row16_col0" class="data row16 col0" >Strategy 3: Dam Remediation</td>
+      <td id="T_89173_row16_col1" class="data row16 col1" ></td>
+      <td id="T_89173_row16_col2" class="data row16 col2" ></td>
+      <td id="T_89173_row16_col3" class="data row16 col3" >$1,305,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row17_col0" class="data row17 col0" >3.1 - Remediate Dams</td>
-      <td id="T_2caaf_row17_col1" class="data row17 col1" >TBD</td>
-      <td id="T_2caaf_row17_col2" class="data row17 col2" >TBD</td>
-      <td id="T_2caaf_row17_col3" class="data row17 col3" >$1,305,000.00 </td>
+      <td id="T_89173_row17_col0" class="data row17 col0" >3.1 - Remediate Dams</td>
+      <td id="T_89173_row17_col1" class="data row17 col1" >TBD</td>
+      <td id="T_89173_row17_col2" class="data row17 col2" >TBD</td>
+      <td id="T_89173_row17_col3" class="data row17 col3" >$1,305,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row18_col0" class="data row18 col0" >3.2 - Install Fish Passage</td>
-      <td id="T_2caaf_row18_col1" class="data row18 col1" >TBD</td>
-      <td id="T_2caaf_row18_col2" class="data row18 col2" >TBD</td>
-      <td id="T_2caaf_row18_col3" class="data row18 col3" >TBD</td>
+      <td id="T_89173_row18_col0" class="data row18 col0" >3.2 - Install Fish Passage</td>
+      <td id="T_89173_row18_col1" class="data row18 col1" >TBD</td>
+      <td id="T_89173_row18_col2" class="data row18 col2" >TBD</td>
+      <td id="T_89173_row18_col3" class="data row18 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row19_col0" class="data row19 col0" >3.3 - Connect with Cattleman's Association to explore a partnership to remediate dams</td>
-      <td id="T_2caaf_row19_col1" class="data row19 col1" >TBD</td>
-      <td id="T_2caaf_row19_col2" class="data row19 col2" >TBD</td>
-      <td id="T_2caaf_row19_col3" class="data row19 col3" >TBD</td>
+      <td id="T_89173_row19_col0" class="data row19 col0" >3.3 - Connect with Cattleman's Association to explore a partnership to remediate dams</td>
+      <td id="T_89173_row19_col1" class="data row19 col1" >TBD</td>
+      <td id="T_89173_row19_col2" class="data row19 col2" >TBD</td>
+      <td id="T_89173_row19_col3" class="data row19 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row20_col0" class="data row20 col0" >3.4 - Knowledge Gap: Continue updating the barrier prioritization model</td>
-      <td id="T_2caaf_row20_col1" class="data row20 col1" >CWF</td>
-      <td id="T_2caaf_row20_col2" class="data row20 col2" >TBD</td>
-      <td id="T_2caaf_row20_col3" class="data row20 col3" >$0.00 </td>
+      <td id="T_89173_row20_col0" class="data row20 col0" >3.4 - Knowledge Gap: Continue updating the barrier prioritization model</td>
+      <td id="T_89173_row20_col1" class="data row20 col1" >CWF</td>
+      <td id="T_89173_row20_col2" class="data row20 col2" >TBD</td>
+      <td id="T_89173_row20_col3" class="data row20 col3" >$0.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row21_col0" class="data row21 col0" >3.5 - Knowledge Gap: Assess dams to determine whether they exist and are truly blocking salmon habitat</td>
-      <td id="T_2caaf_row21_col1" class="data row21 col1" >HRR(?) DFO(?) CWF(?)</td>
-      <td id="T_2caaf_row21_col2" class="data row21 col2" >TBD</td>
-      <td id="T_2caaf_row21_col3" class="data row21 col3" >TBD</td>
+      <td id="T_89173_row21_col0" class="data row21 col0" >3.5 - Knowledge Gap: Assess dams to determine whether they exist and are truly blocking salmon habitat</td>
+      <td id="T_89173_row21_col1" class="data row21 col1" >HRR(?) DFO(?) CWF(?)</td>
+      <td id="T_89173_row21_col2" class="data row21 col2" >TBD</td>
+      <td id="T_89173_row21_col3" class="data row21 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row22_col0" class="data row22 col0" >3.6 - Knowledge Gap: Identify and map dam ownership</td>
-      <td id="T_2caaf_row22_col1" class="data row22 col1" >TBD</td>
-      <td id="T_2caaf_row22_col2" class="data row22 col2" >TBD</td>
-      <td id="T_2caaf_row22_col3" class="data row22 col3" >TBD</td>
+      <td id="T_89173_row22_col0" class="data row22 col0" >3.6 - Knowledge Gap: Identify and map dam ownership</td>
+      <td id="T_89173_row22_col1" class="data row22 col1" >TBD</td>
+      <td id="T_89173_row22_col2" class="data row22 col2" >TBD</td>
+      <td id="T_89173_row22_col3" class="data row22 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row23_col0" class="data row23 col0" >Strategy 4: Barrier Prevention</td>
-      <td id="T_2caaf_row23_col1" class="data row23 col1" ></td>
-      <td id="T_2caaf_row23_col2" class="data row23 col2" ></td>
-      <td id="T_2caaf_row23_col3" class="data row23 col3" >$110,000.00 </td>
+      <td id="T_89173_row23_col0" class="data row23 col0" >Strategy 4: Barrier Prevention</td>
+      <td id="T_89173_row23_col1" class="data row23 col1" ></td>
+      <td id="T_89173_row23_col2" class="data row23 col2" ></td>
+      <td id="T_89173_row23_col3" class="data row23 col3" >$110,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row24_col0" class="data row24 col0" >4.1 – Explore potential partnerships with industrial companies</td>
-      <td id="T_2caaf_row24_col1" class="data row24 col1" >TBD</td>
-      <td id="T_2caaf_row24_col2" class="data row24 col2" >CWF, DFO, Horsefly River Roundtable, WLFN</td>
-      <td id="T_2caaf_row24_col3" class="data row24 col3" >$10,000.00 </td>
+      <td id="T_89173_row24_col0" class="data row24 col0" >4.1 – Explore potential partnerships with industrial companies</td>
+      <td id="T_89173_row24_col1" class="data row24 col1" >TBD</td>
+      <td id="T_89173_row24_col2" class="data row24 col2" >CWF, DFO, Horsefly River Roundtable, WLFN</td>
+      <td id="T_89173_row24_col3" class="data row24 col3" >$10,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row25_col0" class="data row25 col0" >4.2 – Stabilize sediment sources that are explicitly linked to sediment wedges or erosion that are acting as barriers </td>
-      <td id="T_2caaf_row25_col1" class="data row25 col1" >TBD</td>
-      <td id="T_2caaf_row25_col2" class="data row25 col2" >DFO</td>
-      <td id="T_2caaf_row25_col3" class="data row25 col3" >$100,000.00 </td>
+      <td id="T_89173_row25_col0" class="data row25 col0" >4.2 – Stabilize sediment sources that are explicitly linked to sediment wedges or erosion that are acting as barriers </td>
+      <td id="T_89173_row25_col1" class="data row25 col1" >TBD</td>
+      <td id="T_89173_row25_col2" class="data row25 col2" >DFO</td>
+      <td id="T_89173_row25_col3" class="data row25 col3" >$100,000.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row26_col0" class="data row26 col0" >Strategy 5: Progress Tracking Plan</td>
-      <td id="T_2caaf_row26_col1" class="data row26 col1" ></td>
-      <td id="T_2caaf_row26_col2" class="data row26 col2" ></td>
-      <td id="T_2caaf_row26_col3" class="data row26 col3" >TBD</td>
+      <td id="T_89173_row26_col0" class="data row26 col0" >Strategy 5: Progress Tracking Plan</td>
+      <td id="T_89173_row26_col1" class="data row26 col1" ></td>
+      <td id="T_89173_row26_col2" class="data row26 col2" ></td>
+      <td id="T_89173_row26_col3" class="data row26 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row27_col0" class="data row27 col0" >5.1 - Implement the WCRP Progress Tracking Plan</td>
-      <td id="T_2caaf_row27_col1" class="data row27 col1" >CWF</td>
-      <td id="T_2caaf_row27_col2" class="data row27 col2" ></td>
-      <td id="T_2caaf_row27_col3" class="data row27 col3" >TBD</td>
+      <td id="T_89173_row27_col0" class="data row27 col0" >5.1 - Implement the WCRP Progress Tracking Plan</td>
+      <td id="T_89173_row27_col1" class="data row27 col1" >CWF</td>
+      <td id="T_89173_row27_col2" class="data row27 col2" ></td>
+      <td id="T_89173_row27_col3" class="data row27 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row28_col0" class="data row28 col0" >5.2 - Develop a communication action to raise awareness and support for this WCRP</td>
-      <td id="T_2caaf_row28_col1" class="data row28 col1" >CWF, HRR</td>
-      <td id="T_2caaf_row28_col2" class="data row28 col2" >TBD</td>
-      <td id="T_2caaf_row28_col3" class="data row28 col3" >TBD</td>
+      <td id="T_89173_row28_col0" class="data row28 col0" >5.2 - Develop a communication action to raise awareness and support for this WCRP</td>
+      <td id="T_89173_row28_col1" class="data row28 col1" >CWF, HRR</td>
+      <td id="T_89173_row28_col2" class="data row28 col2" >TBD</td>
+      <td id="T_89173_row28_col3" class="data row28 col3" >TBD</td>
     </tr>
     <tr>
-      <td id="T_2caaf_row29_col0" class="data row29 col0" >Total:</td>
-      <td id="T_2caaf_row29_col1" class="data row29 col1" ></td>
-      <td id="T_2caaf_row29_col2" class="data row29 col2" ></td>
-      <td id="T_2caaf_row29_col3" class="data row29 col3" >$5,161,300.00 </td>
+      <td id="T_89173_row29_col0" class="data row29 col0" >Total:</td>
+      <td id="T_89173_row29_col1" class="data row29 col1" ></td>
+      <td id="T_89173_row29_col2" class="data row29 col2" ></td>
+      <td id="T_89173_row29_col3" class="data row29 col3" >$5,161,300.00 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row30_col0" class="data row30 col0" >Fundraising total:</td>
-      <td id="T_2caaf_row30_col1" class="data row30 col1" ></td>
-      <td id="T_2caaf_row30_col2" class="data row30 col2" ></td>
-      <td id="T_2caaf_row30_col3" class="data row30 col3" >$2,508,800 </td>
+      <td id="T_89173_row30_col0" class="data row30 col0" >Fundraising total:</td>
+      <td id="T_89173_row30_col1" class="data row30 col1" ></td>
+      <td id="T_89173_row30_col2" class="data row30 col2" ></td>
+      <td id="T_89173_row30_col3" class="data row30 col3" >$2,508,800 </td>
     </tr>
     <tr>
-      <td id="T_2caaf_row31_col0" class="data row31 col0" >Proponent/government contribution total:</td>
-      <td id="T_2caaf_row31_col1" class="data row31 col1" ></td>
-      <td id="T_2caaf_row31_col2" class="data row31 col2" ></td>
-      <td id="T_2caaf_row31_col3" class="data row31 col3" >$2,652,500 </td>
+      <td id="T_89173_row31_col0" class="data row31 col0" >Proponent/government contribution total:</td>
+      <td id="T_89173_row31_col1" class="data row31 col1" ></td>
+      <td id="T_89173_row31_col2" class="data row31 col2" ></td>
+      <td id="T_89173_row31_col3" class="data row31 col3" >$2,652,500 </td>
     </tr>
   </tbody>
 </table>
@@ -828,13 +795,7 @@ The operational plan represents a preliminary exercise undertaken by the plannin
 
 
 
-
-
-
 ## Funding Sources {-}
-
-
-
 
 
 

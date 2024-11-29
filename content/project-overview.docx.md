@@ -11,9 +11,6 @@
 
 
 
-
-
-
 # Project Overview {-} 
 
 ## Plan Purpose, Approach, and Scope {-}
@@ -41,15 +38,9 @@ The geographic scope of this WCRP is seven watersheds (Bear River, Cow River, Cr
 
 
 
-
-
-
 ::: {#tbl-targspec .cell tbl-cap='SAMPLE Target fish species in the Horsefly River watershed. The Secwepemctsín and Western common and scientific species names are provided.'}
 
 :::
-
-
-
 
 
 
@@ -75,15 +66,9 @@ INSERT TEXT here
 
 
 
-
-
-
 ::: {#tbl-chinook .cell tbl-cap=' table caption'}
 
 :::
-
-
-
 
 
 
@@ -110,96 +95,93 @@ The following table highlights which structure types pose the greatest threat to
 
 
 
-
-
-
 ::: {#tbl-barriertype .cell tbl-cap='SAMPLE Connectivity status assessment for linear habitat (spawning and rearing).'}
 ::: {.cell-output-display}
 
 
 ```{=html}
 <style type="text/css">
-#T_b426f th {
+#T_c3bb0 th {
   background-color: #008270;
   text-align: left;
 }
-#T_b426f_row0_col0, #T_b426f_row1_col0, #T_b426f_row2_col0, #T_b426f_row3_col0, #T_b426f_row4_col0 {
+#T_c3bb0_row0_col0, #T_c3bb0_row1_col0, #T_c3bb0_row2_col0, #T_c3bb0_row3_col0, #T_c3bb0_row4_col0 {
   background-color: white;
 }
-#T_b426f_row0_col1, #T_b426f_row0_col2, #T_b426f_row2_col1, #T_b426f_row2_col2, #T_b426f_row3_col1, #T_b426f_row3_col2, #T_b426f_row4_col3 {
+#T_c3bb0_row0_col1, #T_c3bb0_row0_col2, #T_c3bb0_row2_col1, #T_c3bb0_row2_col2, #T_c3bb0_row3_col1, #T_c3bb0_row3_col2, #T_c3bb0_row4_col3 {
   background-color: #03853e;
 }
-#T_b426f_row0_col3, #T_b426f_row3_col3, #T_b426f_row4_col1 {
+#T_c3bb0_row0_col3, #T_c3bb0_row3_col3, #T_c3bb0_row4_col1 {
   background-color: #92d050;
 }
-#T_b426f_row0_col4 {
+#T_c3bb0_row0_col4 {
   font-weight: bold;
   background-color: #ff0000;
 }
-#T_b426f_row1_col1, #T_b426f_row1_col3, #T_b426f_row2_col3, #T_b426f_row4_col2 {
+#T_c3bb0_row1_col1, #T_c3bb0_row1_col3, #T_c3bb0_row2_col3, #T_c3bb0_row4_col2 {
   background-color: #ffff00;
 }
-#T_b426f_row1_col2 {
+#T_c3bb0_row1_col2 {
   background-color: #ff0000;
 }
-#T_b426f_row1_col4 {
+#T_c3bb0_row1_col4 {
   font-weight: bold;
   background-color: #ffff00;
 }
-#T_b426f_row2_col4 {
+#T_c3bb0_row2_col4 {
   font-weight: bold;
   background-color: #92d050;
 }
-#T_b426f_row3_col4, #T_b426f_row4_col4 {
+#T_c3bb0_row3_col4, #T_c3bb0_row4_col4 {
   font-weight: bold;
   background-color: #03853e;
 }
 </style>
-<table id="T_b426f">
+<table id="T_c3bb0">
   <thead>
     <tr>
-      <th id="T_b426f_level0_col0" class="col_heading level0 col0" >Barrier Types</th>
-      <th id="T_b426f_level0_col1" class="col_heading level0 col1" >Extent</th>
-      <th id="T_b426f_level0_col2" class="col_heading level0 col2" >Severity</th>
-      <th id="T_b426f_level0_col3" class="col_heading level0 col3" >Irreversibility</th>
-      <th id="T_b426f_level0_col4" class="col_heading level0 col4" >Overall Threat Rating:</th>
+      <th id="T_c3bb0_level0_col0" class="col_heading level0 col0" >Barrier Types</th>
+      <th id="T_c3bb0_level0_col1" class="col_heading level0 col1" >Extent</th>
+      <th id="T_c3bb0_level0_col2" class="col_heading level0 col2" >Severity</th>
+      <th id="T_c3bb0_level0_col3" class="col_heading level0 col3" >Irreversibility</th>
+      <th id="T_c3bb0_level0_col4" class="col_heading level0 col4" >Overall Threat Rating:</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_b426f_row0_col0" class="data row0 col0" >Road-Stream Crossings</td>
-      <td id="T_b426f_row0_col1" class="data row0 col1" >Low</td>
-      <td id="T_b426f_row0_col2" class="data row0 col2" >Low</td>
-      <td id="T_b426f_row0_col3" class="data row0 col3" >Medium</td>
-      <td id="T_b426f_row0_col4" class="data row0 col4" >Very High</td>
+      <td id="T_c3bb0_row0_col0" class="data row0 col0" >Road-Stream Crossings</td>
+      <td id="T_c3bb0_row0_col1" class="data row0 col1" >Low</td>
+      <td id="T_c3bb0_row0_col2" class="data row0 col2" >Low</td>
+      <td id="T_c3bb0_row0_col3" class="data row0 col3" >Medium</td>
+      <td id="T_c3bb0_row0_col4" class="data row0 col4" >Very High</td>
     </tr>
     <tr>
-      <td id="T_b426f_row1_col0" class="data row1 col0" >Lateral Barriers</td>
-      <td id="T_b426f_row1_col1" class="data row1 col1" >High</td>
-      <td id="T_b426f_row1_col2" class="data row1 col2" >Very High</td>
-      <td id="T_b426f_row1_col3" class="data row1 col3" >High</td>
-      <td id="T_b426f_row1_col4" class="data row1 col4" >High</td>
+      <td id="T_c3bb0_row1_col0" class="data row1 col0" >Lateral Barriers</td>
+      <td id="T_c3bb0_row1_col1" class="data row1 col1" >High</td>
+      <td id="T_c3bb0_row1_col2" class="data row1 col2" >Very High</td>
+      <td id="T_c3bb0_row1_col3" class="data row1 col3" >High</td>
+      <td id="T_c3bb0_row1_col4" class="data row1 col4" >High</td>
     </tr>
     <tr>
-      <td id="T_b426f_row2_col0" class="data row2 col0" >Small Dams(<3m height)</td>
-      <td id="T_b426f_row2_col1" class="data row2 col1" >Low</td>
-      <td id="T_b426f_row2_col2" class="data row2 col2" >Low</td>
-      <td id="T_b426f_row2_col3" class="data row2 col3" >High</td>
-      <td id="T_b426f_row2_col4" class="data row2 col4" >Medium</td>
+      <td id="T_c3bb0_row2_col0" class="data row2 col0" >Small Dams(<3m height)</td>
+      <td id="T_c3bb0_row2_col1" class="data row2 col1" >Low</td>
+      <td id="T_c3bb0_row2_col2" class="data row2 col2" >Low</td>
+      <td id="T_c3bb0_row2_col3" class="data row2 col3" >High</td>
+      <td id="T_c3bb0_row2_col4" class="data row2 col4" >Medium</td>
     </tr>
     <tr>
-      <td id="T_b426f_row3_col0" class="data row3 col0" >Trail-stream Crossings</td>
-      <td id="T_b426f_row3_col1" class="data row3 col1" >Low</td>
-      <td id="T_b426f_row3_col2" class="data row3 col2" >Low</td>
-      <td id="T_b426f_row3_col3" class="data row3 col3" >Medium</td>
-      <td id="T_b426f_row3_col4" class="data row3 col4" >Low</td>
+      <td id="T_c3bb0_row3_col0" class="data row3 col0" >Trail-stream Crossings</td>
+      <td id="T_c3bb0_row3_col1" class="data row3 col1" >Low</td>
+      <td id="T_c3bb0_row3_col2" class="data row3 col2" >Low</td>
+      <td id="T_c3bb0_row3_col3" class="data row3 col3" >Medium</td>
+      <td id="T_c3bb0_row3_col4" class="data row3 col4" >Low</td>
     </tr>
     <tr>
-      <td id="T_b426f_row4_col0" class="data row4 col0" >Natural Barriers</td>
-      <td id="T_b426f_row4_col1" class="data row4 col1" >Medium</td>
-      <td id="T_b426f_row4_col2" class="data row4 col2" >High</td>
-      <td id="T_b426f_row4_col3" class="data row4 col3" >Low</td>
-      <td id="T_b426f_row4_col4" class="data row4 col4" >Low</td>
+      <td id="T_c3bb0_row4_col0" class="data row4 col0" >Natural Barriers</td>
+      <td id="T_c3bb0_row4_col1" class="data row4 col1" >Medium</td>
+      <td id="T_c3bb0_row4_col2" class="data row4 col2" >High</td>
+      <td id="T_c3bb0_row4_col3" class="data row4 col3" >Low</td>
+      <td id="T_c3bb0_row4_col4" class="data row4 col4" >Low</td>
     </tr>
   </tbody>
 </table>
@@ -209,9 +191,6 @@ The following table highlights which structure types pose the greatest threat to
 
 :::
 :::
-
-
-
 
 
 
