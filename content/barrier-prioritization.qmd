@@ -68,9 +68,13 @@ The barrier prioritization analysis ranked barriers by [...] A longer list of ba
 
 data <- read.csv("data/priority_barriers_for_rehabilitation_table.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- flextable(data)
-ft <- format_flextable(ft)
-ft
+if (nrow(data) > 0) {
+  ft <- flextable(data)
+  ft <- format_flextable(ft)
+  ft
+} else {
+  cat("The dataset is empty. No table to display.")
+}
 ```
 
 ```{r deficient, echo = FALSE, results = 'asis'}
@@ -81,9 +85,13 @@ ft
 
 data <- read.csv("data/assessed_data_deficient_structures_table.csv", check.names=FALSE)
 inter_num <- nrow(data)
-ft <- flextable(data)
-ft <- format_flextable(ft)
-ft
+if (nrow(data) > 0) {
+  ft <- flextable(data)
+  ft <- format_flextable(ft)
+  ft
+} else {
+  cat("The dataset is empty. No table to display.")
+}
 ```
 
 ```{r remove, echo = FALSE, results = 'asis'}
@@ -94,9 +102,13 @@ ft
 
 
 data <- read.csv("data/excluded_structures_table.csv", check.names=FALSE)
-ft <- flextable(data)
-ft <- format_flextable(ft)
-ft
+if (nrow(data) > 0) {
+  ft <- flextable(data)
+  ft <- format_flextable(ft)
+  ft
+} else {
+  cat("The dataset is empty. No table to display.")
+}
 ```
 
 
@@ -113,7 +125,11 @@ There are currently `r prior_num` barriers on the priority barrier list, which w
 #| echo: false
 
 data <- read.csv("data/rehabilitated_structures_table.csv", check.names=FALSE)
-ft <- flextable(data)
-ft <- format_flextable(ft)
-ft
+if (nrow(data) > 0) {
+  ft <- flextable(data)
+  ft <- format_flextable(ft)
+  ft
+} else {
+  cat("The dataset is empty. No table to display.")
+}
 ```
