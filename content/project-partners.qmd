@@ -1,45 +1,33 @@
 
-## Project Partners {-}
+# Appendix A - Planning Team {-}
 
 ## Planning Team {-}
 
-```{r echo = FALSE}
+```{python opplan, echo=FALSE}
 #| label: tbl-planteam
-#| tbl-cap: "SAMPLE <watershed> WCRP planning team members. Planning team members contributed to the development of this plan by participating in a series of workshops and document and data review. The plan was generated based on the input and feedback of the local groups and organizations listed in this table."
+#| tbl-cap: "The primary and secondary planning teams involved in developing and implementing the souris and area branch watershed connectivity restoration plan. "
 #| warning: false
+#| echo: false
 
-library("flextable")
+from IPython.display import display
+import pandas as pd
+import numpy as np
 
-data <- read.csv("data/planning_team.csv", check.names=FALSE, stringsAsFactors=FALSE)
-if (nrow(data) > 0) {
-    ft <- flextable(data)
-    ft <- bg(ft, bg = "#008270", part = "header")
-    ft <- color(ft, color = "white", part = "header")
-    ft <- set_caption(ft)
-    ft |> autofit() 
-    } else {
-  cat("The dataset is empty. No table to display.")
-}
+
+def df_operation(val):
+    return "background-color: black; color: white"
+
+data = pd.read_csv('data/planning_team.csv', index_col=False,)
+
+data = data.replace(np.nan, '', regex=True)
+
+rows = pd.IndexSlice[[0,7], :]
+
+data = data.style.applymap(df_operation, subset=rows).hide().set_properties(**{'text-align': 'left'})
+data.set_table_styles(
+   [{
+       'selector': 'th',
+       'props': [('background-color', '#008270'),('text-align', 'left')]
+   }])
+
 ```
-
-## Key Actors {-}
-
-```{r keyact, echo = FALSE, results = 'asis'}
-#| label: tbl-keyact
-#| tbl-cap: "SAMPLE Additional Key Actors in the <watershed>. Key Actors are the individuals, groups, and/or organizations, outside of the planning team, with influence and relevant experience in the watershed, whose engagement will be critical for the successful implementation of this WCRP."
-#| warning: false
-
-library("flextable")
-
-data <- read.csv("data/key_actors.csv", check.names=FALSE, stringsAsFactors=FALSE)
-if (nrow(data) > 0) {
-    ft <- flextable(data)
-    ft <- bg(ft, bg = "#008270", part = "header")
-    ft <- color(ft, color = "white", part = "header")
-    ft <- set_caption(ft)
-    ft |> autofit() 
-    } else {
-  cat("The dataset is empty. No table to display.")
-}
-```
-

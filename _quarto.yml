@@ -3,7 +3,8 @@ project:
   output-dir: _book
 
 book:
-  title: "Title"
+  title: "Souris and Area Branch of the PEI Wildlife Federation 2023-2033 Watershed Connectivity Restoration Plan"
+  subtitle: "Version 1 – March 2023-March 2024"
   author: "Canadian Wildlife Federation"
   date: last-modified
   date-format: "DD-MM-YYYY"
@@ -11,14 +12,16 @@ book:
     - index.qmd
     - content/project-overview.qmd
     - content/connectivity-status.qmd
-    - content/barrier-prioritization.qmd
+    - content/structure-prioritization.qmd
     - content/work-planning.qmd
     - content/references.qmd
     - content/version-history.qmd
   appendices: 
     - content/project-partners.qmd
-    - content/supplementary-information.qmd 
-    - content/data-methods.qmd
+    - content/key-habitat-maps.qmd 
+    - content/defining-sets.qmd
+    - content/additional-wcrp-tables.qmd
+    
   
   
   sidebar: 

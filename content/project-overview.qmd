@@ -31,87 +31,99 @@ sum_road <- api$sum_road
 
 ## Plan Purpose, Approach, and Scope {-}
 
-The following Watershed Connectivity Restoration Plan (WCRP) represents the culmination of a collaborative planning effort with the Canadian Wildlife Federation (CWF), The Atlantic Salmon Federation (ASF), and the Souris and Area Branch of the PEI Wildlife Federation (SAB). The overall aim is to build meaningful partnerships, aid in reducing the threat of aquatic barriers to diadromous fish, and all that they represent, as well as the livelihoods that they support. This plan will identify priority actions that the SAB WCRP partners propose to undertake between 2023-2033 to preserve and restore fish connectively in the seven northeastern salmon watershed systems of North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River, and Cow River {#fig-geoscope}. This will be done through barrier rehabilitation and prevention strategies. These strategies will be shared with local First Nations, Fisheries and Oceans Canada (DFO), the PEI Government, NGOs, and local stakeholders to inform directed efforts to improve fish productivity and diversity in these watersheds. 
+The following Watershed Connectivity Restoration Plan (WCRP) represents the culmination of a collaborative planning effort with the Canadian Wildlife Federation (CWF), The Atlantic Salmon Federation (ASF), and the Souris and Area Branch of the PEI Wildlife Federation (SAB). The overall aim is to build meaningful partnerships, aid in reducing the threat of aquatic barriers to diadromous fish, and all that they represent, as well as the livelihoods that they support. This plan will identify priority actions that the SAB WCRP partners propose to undertake between 2023-2033 to preserve and restore fish connectively in the seven northeastern salmon watershed systems of North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River, and Cow River. This will be done through barrier rehabilitation and prevention strategies. These strategies will be shared with local First Nations, Fisheries and Oceans Canada (DFO), the PEI Government, NGOs, and local stakeholders to inform directed efforts to improve fish productivity and diversity in these watersheds.
 
 ## Vision Statement {-}
 
-SAB strives to address and remove human and natural barriers in our managed rivers that could impact movement and the natural life cycles of aquatic species.  SAB will work hard to attain and sustain dynamic watershed ecosystems with optimal physical, biological, and chemical conditions to support native wildlife populations and environmental network functionality so that fish populations can access the habitat that they need to survive and thrive in throughout their life cycles without barriers that could distress them.  This will allow our local waterways to be and remain beneficial and healthy for future generations. 
+SAB strives to address and remove human and natural barriers in our managed rivers that could impact movement and the natural life cycles of aquatic species. SAB will work hard to attain and sustain dynamic watershed ecosystems with optimal physical, biological, and chemical conditions to support native wildlife populations and environmental network functionality so that fish populations can access the habitat that they need to survive and thrive in throughout their life cycles without barriers that could distress them. This will allow our local waterways to be and remain beneficial and healthy for future generations.
 
 ## Project Scope {-}
 
-Connectivity is a critical component of freshwater ecosystems that encompasses a variety of factors related to ecosystem structure and function, such as the ability of aquatic organisms to disperse and/or migrate, the transportation of energy and matter (e.g., nutrient cycling and sediment flows), and temperature regulation {cite}Seliger2018-be. Though each of these factors are important when considering the health of a watershed, for the purposes of this WCRP the term "connectivity" is defined as the degree to which aquatic organisms can disperse and/or migrate freely through freshwater systems. Within this context, connectivity is primarily constrained by physical barriers, including anthropogenic infrastructure such as dams and stream crossings, and natural features such as waterfalls, barrier beaches, and beaver dams. This plan will focus on the direct rehabilitation and prevention of localized, physical barriers instead of the broad, land-use patterns causing chronic connectivity issues in the watershed. The planning team decided that the primary focus of this WCRP is addressing barriers to longitudinal connectivity (i.e., along the upstream-downstream plane) due to the importance of maintaining fish passage to spawning and rearing habitat in the watershed.
+Connectivity is a critical component of freshwater ecosystems that encompasses a variety of factors related to ecosystem structure and function, such as the ability of aquatic organisms to disperse and/or migrate, the transportation of energy and matter (e.g., nutrient cycling and sediment flows), and temperature regulation (@Seliger2018-be). Though each of these factors are important when considering the health of a watershed, for the purposes of this WCRP the term "connectivity" is defined as the degree to which aquatic organisms can disperse and/or migrate freely through freshwater systems.  Within this context, connectivity is primarily constrained by physical barriers, including anthropogenic infrastructure such as dams and stream crossings, and natural features such as waterfalls, barrier beaches, and beaver dams.  This plan will focus on the direct rehabilitation and prevention of localized, physical barriers instead of the broad, land-use patterns causing chronic connectivity issues in the watershed.  The planning team decided that the primary focus of this WCRP is addressing barriers to longitudinal connectivity (i.e., along the upstream-downstream plane) due to the importance of maintaining fish passage to spawning and rearing habitat in the watershed. 
 
-![Figure 1 - The primary geographic scope, the seven salmon watersheds — Bear River, Cow River, Cross River, Hay River, Naufrage River, North Lake Creek, Priest Pond Creek watershed — located in Souris, PE.](images\GeographicScope.png){#fig1-geographicscope}
+The geographic scope of this WCRP is seven watersheds (North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River and Cow River) in Souris, PE, (@fig-1). The seven watersheds have a total drainage area of 205.46 km2 (257 linear km of streams and rivers) ranging from 2.5 km2 in Priest Pond Creek to ~49 km2 in North Lake Creek, spanning as far west as Selkirk and as east as North Lake and draining into the ocean.  
 
-
-The geographic scope of this WCRP is seven watersheds (Bear River, Cow River, Cross River, Hay River, Naufrage River, North Lake Creek, Priest Pond Creek) in Souris, PE, ({numref}fig1). The seven watersheds have a total drainage area of 205.46 km2 ranging from 2.5 km2 in Priest Pond to ~49 km2 in North Lake Creek, spanning as far west as Selkirk and as east as North Lake and draining into the ocean. The geographic scope of this WCRP was further refined by identifying naturally accessible waterbodies, which are defined as streams, lakes, or reservoirs that target species would access in the absence of anthropogenic barriers ({numref}fig2). Naturally accessible waterbodies were spatially delineated using stream characteristics that define the upper limit of their movement based on species-specific swimming abilities ({numref}Table1). Areas of high, sustained beaver activity that has led to long-term changes in the habitat conditions were excluded due to the unfavorable conditions for barrier remediation. The spatial extent of the naturally accessible waterbodies layer was then expanded to include the furthest upstream fish observation data and/or redd surveys (for Atlantic Salmon). These maps were explored by the planning team to incorporate additional local knowledge, ensure accuracy, and finalize the criteria used to define naturally accessible waterbodies. The new geographic scope formed the foundation for all subsequent analyses and planning steps, including mapping and modelling key habitat, quantifying the current connectivity status, goal setting, and action planning {cite}Mazany-Wright2021-rz.
-The geographic scope of this WCRP is seven watersheds (Bear River, Cow River, Cross River, Hay River, Naufrage River, North Lake Creek, Priest Pond Creek) in Souris, PE, (@fig1-geographicscope). The seven watersheds have a total drainage area of 205.46 km2 ranging from 2.5 km2 in Priest Pond to ~49 km2 in North Lake Creek, spanning as far west as Selkirk and as east as North Lake and draining into the ocean. The geographic scope of this WCRP was further refined by identifying naturally accessible waterbodies, which are defined as streams, lakes, or reservoirs that target species would access in the absence of anthropogenic barriers ({numref}fig2). Naturally accessible waterbodies were spatially delineated using stream characteristics that define the upper limit of their movement based on species-specific swimming abilities ({numref}Table1). Areas of high, sustained beaver activity that has led to long-term changes in the habitat conditions were excluded due to the unfavorable conditions for barrier remediation. The spatial extent of the naturally accessible waterbodies layer was then expanded to include the furthest upstream fish observation data and/or redd surveys (for Atlantic Salmon). These maps were explored by the planning team to incorporate additional local knowledge, ensure accuracy, and finalize the criteria used to define naturally accessible waterbodies. The new geographic scope formed the foundation for all subsequent analyses and planning steps, including mapping and modelling key habitat, quantifying the current connectivity status, goal setting, and action planning {cite}Mazany-Wright2021-rz.
-
-```{r targspec, echo = FALSE, results = 'asis'}
-#| label: tbl-targspec
-#| tbl-cap: "SAMPLE Target fish species in the Horsefly River watershed. The Secwepemctsín and Western common and scientific species names are provided."
-#| warning: false
-
-library("flextable")
-
-data <- read.csv("data/species_names.csv", check.names=FALSE)
-ft <- flextable(data)
-ft <- bg(ft, bg = "#008270", part = "header")
-ft <- color(ft, color = "white", part = "header")
-ft <- set_caption(ft)
-#ft <- autofit()
-#ft |> autofit() 
-```
-
+![Figure 1 -  The primary geographic scope, the northeastern cluster of seven Atlantic salmon watersheds — North Lake Creek, Priest Pond Creek, Cross River, Hay River, Bear River, Naufrage River, Cow River— located in Souris, Prince Edward Island.](images\GeographicScope.png){#fig-1}
 
 ## Focal species {-}
 
-Focal species represent the ecologically and culturally important species for which habitat connectivity is being directly conserved and/or restored in the watershed. The planning team selected three target species: Atlantic Salmon, Rainbow Smelt, and American Eel. The selection of these target species was driven primarily by local conservation goals.
+Focal species represent the ecologically and culturally important species for which habitat connectivity is being directly conserved and/or restored in the watershed. The planning team selected three focal species: Atlantic salmon, American eel, and Rainbow smelt. While Brook trout were initially discussed as a potential focal species, they were not specifically included in this iteration of the conservation plan given that addressing barriers to Atlantic salmon would indirectly benefit Brook trout populations that are seemingly abundant across the seven watersheds.  The selection of these focal species was driven primarily by local conservation goals.   
 
-### Atlantic Salmon | Plamu | Salmo salar {-}
+### Atlantic Salmon | Plamu | *Salmo salar* {-}
 
-INSERT TEXT here
+Atlantic salmon are anadromous fishes, meaning mature adults spawn in freshwater and juveniles rear in freshwater before undergoing a process called smoltification where they migrate out to the ocean for 1-3+ years before returning to the freshwater to repeat this process. Due to this migratory process, salmon require unimpeded access between the ocean and freshwater habitats to complete their life cycle.  
 
-### American Eel | Kataq | Anguilla rostrata  {-}
-```{r chinook, echo = FALSE, results = 'asis'}
-#| label: tbl-chinook
-#| tbl-cap: " table caption"
+Atlantic salmon spawn in the pool-riffle transition zones of the main stem and larger tributaries of a river (@deGaudemar2000; @Finstad2010).  Within these stretches, they seek out the tails of pools, where substrate size allows for females to excavate a space to deposit the eggs to incubate below gravel beds. Fast flowing, well oxygenated water with minimal fine sediments helps to maximize successful embryo development.  Atlantic salmon juveniles (fry and parr) rear in habitat that is deeper and slower, to facilitate their weaker swimming and predation capabilities.  Water depth, velocity, and substrate size tend to increase with parr as they increase in size and age.  Shelter, in the form of large rocks, boulders, or overhead cover provide crucial refuge for overwintering habitat.  Channel gradients most typically associated with these preferred spawning and rearing habitats range from 0.12 to 25%; with highest concentrations below 3% (@Amiro1993). 
+
+Atlantic salmon spawn in all seven of these watersheds in northeastern PEI, with North Lake Creek, Cross River, and Naufrage River supporting the highest productivity.  Returns have declined in Priest Pond Creek, Hay River, Bear River, and Cow River the past four to five years.  Salmon in this region are within the proposed Gaspe-Southern Gulf of St. Lawrence designable unit, and were assessed by Committee on the Status of Endangered Wildlife in Canada (COSEWIC) as Special Concern in 2010 (@Cosewic2010).  See Appendix B for maps of modelled salmon habitat in the seven watersheds. 
+
+### American Eel | Kataq | *Anguilla rostrata*  {-}
+
+American eel are catadromous species, meaning they spawn in the Sargasso Sea and drift with the ocean currents towards the continental shelf as glass eels.  Elvers then continue migrating towards freshwater tributaries to feed and mature, although some populations have been known to stay in the estuaries and bays or move between freshwater and estuary habitat over their life cycle.  Their ability to tolerate a wide variety of salinities and temperature thresholds allows them to occupy a variety of habitat types. See Appendix B for maps of modelled eel habitat in the seven watersheds. 
+
+American eel are widely distributed throughout the seven PEI watersheds and occupy freshwater habitat and estuary habitat for feeding (on small fish, mollusks, insects, and crustaceans) and growth. SAB did a burrowing survey in 2018 to confirm both salt water and freshwater abodes for American eel. Notable habitat sites for eels in our management area include North Lake Creek and Naufrage River.  They are found in almost all the seven salmon rivers in northeastern PEI, but populations are the largest and healthiest in North Lake Creek and Naufrage River. It is known that eels are non-specific in what habitat they prefer while on Prince Edward Island, but such things as perched or hanging culverts can hinder passage to areas where food sources may be best to allow them to suitably develop and grow. The bigger they become the best chance they have of reaching sexual maturity and in turn can migrate to achieve species proliferation. American eel were assessed as Threatened by COSEWIC in 2012 (@COSEWIC2012). 
+
+### Rainbow smelt | *Osmerus mordax*   {-}
+
+Rainbow smelt in PEI are anadromous, meaning they migrate from the ocean to freshwater habitats where they spawn following the spring freshet. Spawning generally takes place in lower elevations of rivers and streams. Rainbow smelt requires substrate such as silt, gravel and rock, and aquatic vegetation and wood debris to deposit their eggs during spawning. See Appendix B for maps of modelled smelt habitat in the seven watersheds. 
+
+Smelts are a popular food fish for many Islanders and support a commercial and recreational fishery. The smelt dip net fishery runs from April 1st to June 15th and the angling season is open from April 15th to September 15th. Not a lot is known about smelt runs, except for local traditional fishing knowledge regarding times for fishing and areas for fishing smelts.They do tend to be moving when Atlantic salmon smolts are making their migration towards sea from upstream habitat areas, in mid-May to mid-June.
+
+## Geographical Scope {-}
+
+The geographic scope of this WCRP was further refined by identifying naturally accessible waterbodies, which are defined as streams, lakes, or reservoirs that focal species would access in the absence of anthropogenic barriers.  Naturally accessible waterbodies were spatially delineated for each species using stream characteristics that define the upper limit of their movement based on their swimming abilities (@tbl-spn). Areas of high, sustained beaver activity that has led to long-term changes in the habitat conditions were excluded from the salmon model due to the unfavorable conditions for barrier remediation.  The spatial extent of the naturally accessible waterbodies layer was then refined based on existing fish observation data and/or redd surveys (for Atlantic salmon). These maps were explored by the planning team to incorporate additional local knowledge, ensure accuracy, and finalize the criteria used to define naturally accessible waterbodies, which are shown for Atlantic salmon (@fig-2) and Rainbow Smelt (@fig-3). An equivalent map was not provided for American eel because all stream segments (@fig-1) were considered naturally accessible for this species. The new geographic scope formed the foundation for all subsequent analyses and planning steps, including mapping and modelling key habitat, quantifying the current connectivity status, goal setting, and action planning (@Mazany-Wright2021-rz). 
+
+
+```{python echo=FALSE}
+#| label: tbl-spn
+#| tbl-cap: "Species-specific stream characteristics used to spatially delineate naturally accessible waterbodies and key habitat for Atlantic salmon, American eel, and Rainbow smelt."
 #| warning: false
-
-library("flextable")
-
-data <- read.csv("data/chinook-pop-assess-hors-psf-2020.csv", check.names=FALSE)
-ft <- flextable(data)
-ft <- bg(ft, bg = "#008270", part = "header")
-ft <- color(ft, color = "white", part = "header")
-ft <- set_caption(ft)
-#ft |> autofit() 
+#| echo: false
+ 
+import numpy as np
+from IPython.display import display
+import pandas as pd
+ 
+data = pd.read_csv('data/species_names.csv', index_col=False, skip_blank_lines=False )
+def fix_table(val):
+    return str(val)
+ 
+def highlighttab7(val):
+    red = '#ff0000;'
+    yellow = '#ffff00;'
+    lgreen = '#92d050;'
+    dgreen = '#03853e;'
+ 
+    if val=="Medium" or val=="Need more information": color = yellow
+    elif val=="Very high" or val=="Very effective" : color = dgreen
+    elif val =="High" or val=="Effective": color = lgreen
+    else: color = 'white'
+    return 'background-color: %s' % color
+ 
+data = data.replace(np.nan, '', regex=True)
+ 
+data = data.applymap(fix_table)
+ 
+data = data.style.applymap(highlighttab7).hide().set_properties(**{'text-align': 'left'})
+data.set_table_styles(
+   [{
+       'selector': 'th',
+       'props': [('background-color', '#008270'),('text-align', 'left')]
+   }])
+ 
 ```
 
-```{r echo = FALSE, results = 'asis'}
-library("flextable")
+![Naturally accessible waterbodies (<30% channel gradient and <5m waterfalls) to Atlantic salmon within the seven watersheds of interest.](images/figure-2.png){#fig-2}
 
-data <- read.csv("data/chinook-pop-assess-hors-cosewic-2018.csv", check.names=FALSE)
-ft <- flextable(data)
-ft <- bg(ft, bg = "#008270", part = "header")
-ft <- color(ft, color = "white", part = "header")
-ft <- set_caption(ft)
-#ft |> autofit() 
-
-```
-
-
-INSERT TEXT
-
+![Naturally accessible waterbodies (<5% channel gradient and below any waterfall) to Rainbow smelt within the seven watersheds of interest.](images/figure-3.png){#fig-3}
 
 ## Structure Types {-}
 
-The following table highlights which structure types pose the greatest threat to Atlantic Salmon, American Eel, and Rainbow Smelt in the seven Souris area watersheds. Each structure was assessed for its extent (i.e., the proportion of the focal species' habitat extent that is disconnected by all barriers of a given barrier type) and severity (i.e., the proportion of barrier occurrences that restrict passage to the focal species). Proportions were either scored as low (1-10%), medium (11-30%), high (31-70%) or very high (71-100%) ({numref}Table2). Then, the extent and severity scores were combined in a matrix to identify an overall threat rating. Ultimately, structure types that affect a lot of habitat and frequently fully or partially block fish received the highest ratings. No structures were given a rating of very high. The results of this assessment exercise were used to inform the subsequent planning steps, as well as to identify knowledge gaps where there is little spatial data to inform the assessment for a specific structure type.
-
+The following Table 2 highlights which structure types pose the greatest threat to Atlantic salmon, American eel, and Rainbow smelt in the seven watersheds. Each structure was assessed for its **extent** (proportion of the focal species' habitat extent that is disconnected by all barriers of a given barrier type) and **severity** (proportion of barrier occurrences that restrict passage to the focal species). Then, the extent and severity scores were combined in a matrix to identify an overall threat rating.  Proportions were either scored as low (1-10%), medium (11-30%), high (31-70%), or very high (71-100%) (@tbl-barriertype). Ultimately, structure types that affect a large amount of habitat and frequently block fish passage (fully or partially) received the highest ratings.  No structures were given a rating of very high. The results of this assessment exercise were used to inform the subsequent planning steps, as well as to identify knowledge gaps where there is little spatial data to inform the assessment for a specific structure type. 
 
 ```{python barriertype, echo=FALSE}
 #| label: tbl-barriertype
-#| tbl-cap: "SAMPLE Connectivity status assessment for linear habitat (spawning and rearing)."
+#| tbl-cap: "The overall threat rating (based on the combined extent and severity) of five barrier types on the three focal species, Atlantic salmon, American eel, and Rainbow smelt."
 #| warning: false
 #| echo: false
 
@@ -146,23 +158,23 @@ def rating(threat, barrier):
     return rating
             
 
-df = pd.DataFrame({"Barrier Types":["Road-Stream Crossings","Lateral Barriers","Small Dams(<3m height)","Trail-stream Crossings", "Natural Barriers"],
-                   "Extent":[rating("extent", "ROAD"),"High",rating("extent", "DAM"), "Low", "Medium"],
-                   "Severity":[rating("severity", "ROAD"),"Very High",rating("severity", "DAM"), "Low", "High"],
-                   "Irreversibility":["Medium","High","High", "Medium", "Low"],
-                   "Overall Threat Rating:":["Very High","High","Medium", "Low", "Low"]
-                   }).style.set_properties(subset=["Overall Threat Rating:"], **{'font-weight': 'bold'})
+df = pd.DataFrame({"Structure Types":["Blowdowns/blockages","Barrier Beaches","Stream Crossings","Dams", "Beaver Activity"],
+                   "Atlantic Salmon":["High", "High", "Medium", "Medium", "Medium"],
+                   "American Eel":["High", "High", "Medium", "Medium", "Low"],
+                   "Rainbow Smelt":["High", "High", "Medium", "High", "N/A"]
+                   }).style.set_properties(**{'font-weight': 'bold'})
 
 def highlight(val):
     red = '#ff0000;'
     yellow = '#ffff00;'
     lgreen = '#92d050;'
     dgreen = '#03853e;'
+    orange = '#ffa500;'
 
     if val=="Very High": color = red
-    elif val=="High": color = yellow
-    elif val=="Medium": color = lgreen
-    elif val =="Low": color = dgreen
+    elif val=="High": color = red
+    elif val=="Medium": color = orange
+    elif val =="Low": color = yellow
     else: color = 'white'
     return 'background-color: %s' % color
 
@@ -178,26 +190,24 @@ data.set_table_styles(
 
 ```
 
-
 ### Blowdowns/Blockages {-}
 
-In Sept 2022, Hurricane Fiona caused severe damage to forested areas, leading to a level of fallen trees that has been estimated to be as large as 8-10 years' worth of PEI’s logging sector harvests (INSERT CITE).  These blowdowns caused physical blockages in the river systems throughout all seven watersheds and required substantial removal efforts. Although these areas are not mapped spatially and incorporated into the estimated connectivity status, clearing blockages was a significant restoration (management?) effort undertaken by Souris and Area Branch for the past two years to restore connectivity in these seven watersheds.
-
+In September 2022, Hurricane Fiona caused severe damage to forested areas, leading to a level of fallen trees that has been estimated to be as large as 8-10 years' worth of PEI’s logging sector harvests.  These blowdowns caused physical blockages in the river systems throughout all seven watersheds and required substantial removal efforts.  Although these areas are not mapped spatially and incorporated into the estimated connectivity status, clearing blockages was a significant restoration effort undertaken by Souris and Area Branch of the PEI Wildlife Federation for the past two years to restore connectivity and fish habitat in these seven watersheds. 
 
 ### Barrier Beaches {-}
 
-There are five barrier beaches at the mouth of Bear River, Cross River, Cow River, Hay River, and Priest Pond. These beaches serve as important estuary habitats where anadromous fish return to, or exit from, during a portion of their life cycle. The stability of barrier beaches, and therefore, passability for anadromous species, can depend on factors such as excessive or diminished sediment supply, rising sea levels resulting in washouts, and high rates of landward migration and/or fragmentation (INSERT CITE).  Additionally, anthropogenic modifications of these systems (e.g., rock piles and culverts/fish ladders) enable further widening and shortening of the estuary, the creation of upstream reservoirs, and homogenization of stream characteristics, making these systems more susceptible to instability and blocking fish passage. Cross River, Cow River, and Priest Pond beaches are considered passable, whereas Bear River is considered a partial barrier due to its over widening, shallow channel. At Hay River barrier beach there is a degraded culvert with a fish ladder on it, and this set of structures range from partial barrier to salmon and eel to full barrier to Rainbow Smelt. 
-
+There are five barrier beaches at the mouths of Priest Pond Creek, Cross River, Hay River, Bear River, and Cow River.  These beaches serve as important estuary habitats where anadromous fish return to, or exit from, during a portion of their life cycle.  The stability of barrier beaches, and therefore, passability for anadromous species, can depend on factors such as excessive or diminished sediment supply, rising sea levels resulting in washouts, and high rates of landward migration and/or fragmentation (@Forbes1990).  Additionally, anthropogenic modifications of these systems (e.g., rock piles and culverts/fish ladders) enable further widening and shortening of the estuary, the creation of upstream reservoirs, and homogenization of stream characteristics, making these systems more susceptible to instability and blocking fish passage.  Priest Pond Creek, Cross River, and Cow River beach accesses are considered passable, whereas Bear River is considered a partial barrier due to its over widening, shallow channel.  At Hay River barrier beach there is a degraded culvert with a fish ladder attached to it, and this set of structures range from partial barrier for Atlantic salmon and American eel to a full barrier for Rainbow smelt.  
 
 ### Dams {-}
 
-There are four mapped dams on naturally accessible waterbodies in the watersheds, three of which are blocking a total of 24.5 km and 40.8 km of modelled habitat for American Eel and Atlantic Salmon respectively. No Rainbow Smelt habitat is located upstream of these dams. Dams impede passage for all three focal species but have the largest impact on Rainbow Smelt due to their poor jumping abilities as smaller-bodied fish.   There are two known fish-passage structures associated with dams in the watersheds; a denil fish ladder on Larkins dam in Naufrage watershed and a natural bypass channel at Millers dam that leads to a culvert downstream. Larkins dam was identified on the priority barrier list (see Appendix B).
-
+There are four mapped dams on naturally accessible waterbodies, three of which are blocking modelled key habitat for American eel (24.5 km) and Atlantic salmon (40.8 km).  No Rainbow smelt habitat is located upstream of these dams.  Dams impede passage for all three focal species.  Dams would have the largest impact on Rainbow smelt due to their poor jumping abilities as smaller-bodied fish; however, there are no dams downstream of Rainbow smelt habitat in this area.  There are two known fish-passage structures associated with dams in the seven watersheds: a denil fish ladder on Larkins Dam in Naufrage River watershed and a natural bypass channel at Millers dam that leads to a culvert downstream in the North Lake Creek watershed system. Larkins dam was identified on the priority barrier list (see {numref}table Priority Barriers)  
 
 ### Stream Crossings {-}
 
-Road-stream crossings are the most abundant barrier type in the watershed, with 181 stream crossings located downstream of modelled key habitat for either Atlantic Salmon, American Eel, or Rainbow Smelt. Stream crossings fully or partially block 35.2 km (52% of habitat upstream of stream crossings) for Rainbow Smelt, 93.1 (33%) for salmon and 103.9 km (61%). XX% of assessed crossings have been confirmed as barriers to fish passage. 
+Road-stream crossings are the most abundant barrier type, with 181 stream crossings located downstream of modelled key habitat for either Atlantic salmon, American eel, or Rainbow smelt.  Stream crossings fully or partially block 35.2 km (52% of habitat upstream of stream crossings) for smelt, 93.1 km (33%) for salmon and 103.9 km (61%) for eel.  Seven stream crossings (all closed bottom culverts) have been confirmed as barriers to fish passage.  
 
 ### Beaver Activity {-}
 
-INSERT TEXT/LINK to BM plan
+The planning team recognizes that sustained beaver activity can impact the habitat and movement of the three focal species. However, beaver activity across these seven watersheds is transient, and ongoing management of its impacts is being carried out throughout the field season. This means that modeling the set location of the activity on the landscape can be challenging and may not be as effective in understanding habitat connectivity for Atlantic salmon, American eel, and Rainbow smelt. Therefore, the planning team chose not to include beaver activity as a stationary, physical barrier in the connectivity model for the three focal species. 
+
+Each year, SAB conducts ongoing monitoring of beaver dams, their caches, assessments of the impacts of old beaver dams, and management to minimize their effects on salmon habitat and in-stream movement.  Additionally, the SAB team assigns a priority risk level to each new dam in three stages: high, medium, and low. The priority risk is mostly determined by the dam's location relative to high-value spawning habitat, which includes both the proximity to critical spawning areas and the accessibility of spawning grounds. Beaver dams that impede access to or are located near vital spawning habitats are given higher priority for management and mitigation efforts. 

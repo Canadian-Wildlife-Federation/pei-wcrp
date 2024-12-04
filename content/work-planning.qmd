@@ -2,41 +2,23 @@
 
 ## Annual Progress Report {-}
 
-## Operational Plan {-}
+CWF and SAB hosted an annual partner workshop in February 2023.  During this workshop, project partners discussed and mapped multiple strategies to address four major threats to connectivity in the seven watersheds (barrier beaches, beaver activity, blowdowns and blockages, and stream crossings). These strategies were mapped using methods from the Conservation Standards and are outlined in the Action Plan (@tbl-actionplan/@fig-7). The goal for this exercise was to creatively brainstorm several strategies, while recognizing that not all will be achieved over the course of this project. An annual work plan was created to outline which subset of tasks would be carried out from March 2023 to March 2024 (@tbl-workplan). The work plan encompasses both assessments on unassessed structures and/or assessed structures that remain data deficient, actions to close knowledge gaps, and activities that advance actionable confirmed barriers.
 
-The operational plan represents a preliminary exercise undertaken by the planning team to identify the potential leads, potential participants, and estimated cost for the implementation of each action in <watershed>. The table below summarizes individuals, groups, or organizations that the planning team felt could lead or participate in the implementation of the plan and should be interpreted as the first step in on-going planning and engagement to develop more detailed and sophisticated action plans for each entry in the table. The individuals, groups, and organizations listed under the "Lead(s)" or "Potential Participants" columns are those that provisionally expressed interest in participating in one of those roles or were suggested by the planning team for further engagement (denoted in bold), for those that are not members of the planning team. The leads, participants, and estimated costs in the operational plan are not binding nor an official commitment of resources, but rather provide a roadmap for future coordination and engagement to work towards implementation of the WCRP.
+In summer 2023, CWF, SAB, and ASF assessed 16 structures to determine their passability status for the three focal species.  Informal assessments were completed at 10 sites and full barrier assessments were completed for six of them using the Nova Scotia Salmon Association’s Adopt-A-Stream protocol (Culvert Assessment for Fish Passage | NSSA Adopt A Stream). Field assessment results were reviewed by CWF, SAB, and ASF and updates were made to the connectivity models accordingly.  
 
-```{python echo=FALSE}
-#| label: tbl-S1
-#| tbl-cap: "Strategy 1"
-#| warning: false
-#| echo: false
+In addition to field assessments, two projects were completed in March 2023-2024: 
 
-import numpy as np
-from IPython.display import display
-import pandas as pd
+- The over widened, shallow barrier beach on Bear River was temporarily addressed by recreating a narrowed access channel and deeper thalweg with meandering rocks, with the goal of improving access for the 2023 fall Atlantic salmon run.  
 
- 
-def fix_table(val):
-    return str(val)
+- A public information meeting was held in January 2024, to address concerns around Hay River barrier beach and upstream Johnston’s Pond. Presentations were made by Souris and Area Branch of the PEI Wildlife Federation, Ducks Unlimited, The PEI Department of Environment, Energy and Climate Action’s Forests, Fish and Wildlife Division, the University of Prince Edward Island Climate Lab and CBCL Coastal Engineer Vincent Leys.  Topics included the history of the structures, ongoing management of the impoundment, and projected erosion and coastal processes under climate change. 
 
-def highlighttab7(val):
-    red = '#ff0000;'
-    yellow = '#ffff00;'
-    lgreen = '#92d050;'
-    dgreen = '#03853e;'
+![Proposed strategies (orange) towards addressing various connectivity-related threats (teal) as part of the watershed connectivity restoration plan.](images/figure-7.jpg){#fig-7}
 
-    if val=="Medium" or val=="Need more information": color = yellow
-    elif val=="Very high" or val=="Very effective" : color = lgreen
-    elif val =="High" or val=="Effective": color = dgreen
-    else: color = 'white'
-    return 'background-color: %s' % color
-
-```
+## Action Plan{-}
 
 ```{python opplan, echo=FALSE}
-#| label: tbl-opplan
-#| tbl-cap: "Operational plan to support the implementation of strategies and actions to improve connectivity for target species in <watershed>."
+#| label: tbl-actionplan
+#| tbl-cap: "Proposed strategies and actions to improve connectivity for Atlantic salmon, American eel, and Rainbow smelt in the seven northeastern watersheds. See Appendix A for leads and participants."
 #| warning: false
 #| echo: false
 
@@ -49,11 +31,11 @@ def df_operation(val):
     return "background-color: black; color: white"
 
 
-data = pd.read_csv('data/operational-plan.csv', index_col=False)
+data = pd.read_csv('data/action-plan.csv', index_col=False, encoding="windows-1252")
 
 data = data.replace(np.nan, '', regex=True)
 
-rows = pd.IndexSlice[[0,10,16,23,26,29,30,31], :]
+rows = pd.IndexSlice[[0,4,16,21], :]
 
 data = data.style.applymap(df_operation, subset=rows).hide().set_properties(**{'text-align': 'left'})
 data.set_table_styles(
@@ -64,13 +46,34 @@ data.set_table_styles(
 
 ```
 
-```{r fund, echo = FALSE, results = 'asis'}
-#| label: tbl-fund
-#| tbl-cap: "Potential funding sources for plan implementation in <watershed>. The Canadian Wildlife Federation and the planning team can coordinate proposal submission through these sources."
-#| warning: false
+## Annual Work Plan{-}
 
-library("flextable")
+```{python opplan, echo=FALSE}
+#| label: tbl-workplan
+#| tbl-cap: "Proposed strategies and actions to improve connectivity for Atlantic salmon, American eel, and Rainbow smelt in the seven northeastern watersheds. See Appendix A for leads and participants."
+#| warning: false
+#| echo: false
+
+from IPython.display import display
+import pandas as pd
+import numpy as np
+
+
+def df_operation(val):
+    return "background-color: black; color: white"
+
+
+data = pd.read_csv('data/work-plan.csv', index_col=False, encoding="windows-1252")
+
+data = data.replace(np.nan, '', regex=True)
+
+rows = pd.IndexSlice[[8,12,15], :]
+
+data = data.style.applymap(df_operation, subset=rows).hide().set_properties(**{'text-align': 'left'})
+data.set_table_styles(
+   [{
+       'selector': 'th',
+       'props': [('background-color', '#008270'),('text-align', 'left')]
+   }])
 
 ```
-
-## Annual Work Plan {-}

@@ -1,1 +1,9 @@
-﻿ID,Watercourse,Road name,Location/coordinates,Reason for exclusion,Method of exclusion,Comments(external),Supporting links
+Structure ID,Internal Name,Watercourse Name,Road Name,Assessment Step Completed,Reason for Exclusion,Method of Exclusion,Species,Notes
+d3342627-e21a-4b6e-ad0c-a15cdda4504b,Cow River beach,Cow River,Cow River Rd,Barrier assessment,Passable,Field assessment,"AS, AE, SM","These systems are dynamic, but passability is not a concern here"
+ca4c5e1d-3c58-46f8-b558-4bb29b423920,Cross River beach,Cross River,Cross River Rd is closes road,Barrier assessment,Passable,Field assessment,"AS, AE, SM","These systems are dynamic, but passability is not a concern here"
+2c444a84-ed90-4254-807a-97921ff239fc,Priest Pond beach,Priest Pond,,Barrier assessment,Passable,Field assessment,"AS, AE, SM","These systems are dynamic, but passability is not a concern here"
+68441ce0-5097-498c-9a48-fbaad2066222,North Lake Creek beach,North Lake Creek,North Lake Creek Harbour Rd,Barrier assessment,Passable,Field assessment,"AS, AE, SM",There are no physical fish passage issues at this beach other than potential risks of dredging
+a3da4307-64dc-4fbf-9514-8298429a6bc8,Millers Dam,North Lake Creek,,Barrier assessment,Passable,Field assessment,"AS, AE, SM",Dam not in use and natural bypass established that leads to downstream culvert
+389fbbd1-392f-4c47-b7bc-a0c1e7db4c0b,McInnis Dam,Cross River,,Barrier assessment,No structure,Field assessment,"AS, AE, SM",Dam has been decommissioned
+341d9229-ab14-4a48-b502-996056d002cf,Hay River - culvert,Hay River,unnamed,Barrier assessment,No structure,Field assessment,"AS, AE, SM","No culvert present, bridge present and no fish passage concerns"
+0303c59f-76fd-48c0-9c66-cfbae96b11dc,Cross River culvert DS of McInnis Dam,Cross River,Souris Line Rd,Barrier assessment,Passable,Field assessment,"AS, AE  ","This structure appears passable to salmon and eel, but potentially a barrier to smelt; Overall, the rock ramp appears to be functioning well and still in good condition. Debris from Fiona was cleared here. "

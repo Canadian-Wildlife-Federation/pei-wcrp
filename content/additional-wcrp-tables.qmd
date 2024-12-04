@@ -1,0 +1,34 @@
+```{python echo=FALSE}
+import python.api_calls as api
+import pandas as pd
+import warnings
+
+warnings.filterwarnings('ignore')
+```
+
+```{r setup, include=FALSE}
+#| echo: false
+
+library(reticulate)
+api <- import("python.api_calls")
+gain <- api$gain
+
+source("Rscripts/table_formatting.R")
+
+```
+
+# Appendix D - Additional WCRP Tables {-}
+
+## Additional WCRP Tables {-}
+
+```{r remove, echo = FALSE, results = 'asis'}
+#| label: tbl-exclude
+#| tbl-cap: "Structures excluded from further consideration in subsequent ranking and work planning because they are confirmed passable (e.g., bridge), not present, or there is no key habitat upstream."
+#| warning: false
+#| echo: false
+
+data <- read.csv("data/excluded_structures_table.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```

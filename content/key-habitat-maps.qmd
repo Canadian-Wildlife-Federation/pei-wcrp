@@ -1,0 +1,8 @@
+
+# Appendix B - Key Habitat Maps {-}
+
+![Atlantic salmon key habitat (197.9 km) throughout the seven focal watersheds.](images/figure-b1.png){#fig-b1}
+
+![American eel key habitat (146.3 km) throughout the seven focal watersheds.](images/figure-b2.png){#fig-b2}
+
+![Rainbow smelt key habitat (64.8 km) throughout the seven focal watersheds.](images/figure-b3.png){#fig-b3}
