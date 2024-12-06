@@ -45,7 +45,7 @@ The geographic scope of this WCRP is seven watersheds (North Lake Creek, Priest 
 
 Focal species represent the ecologically and culturally important species for which habitat connectivity is being directly conserved or restored in the watershed. The planning team selected three focal species: Atlantic Salmon, American Eel, and Rainbow Smelt. While Brook Trout were initially discussed as a potential focal species, they were not specifically included in this iteration of the connectivity plan given that addressing barriers to Atlantic Salmon would indirectly benefit Brook Trout populations that are seemingly abundant across the seven watersheds.  The selection of these focal species was driven primarily by local conservation goals.   
 
-### Atlantic Salmon | Plamu | *Salmo salar* {-}
+### Atlantic Salmon | *Salmo salar* {-}
 
 Atlantic Salmon are anadromous fishes, meaning mature adults spawn in freshwater and juveniles rear in freshwater before undergoing a process called smoltification where they migrate out to the ocean for 1-3+ years before returning to the freshwater to repeat this process. Due to this migratory process, salmon require unimpeded access between the ocean and freshwater habitats to complete their life cycle.  
 
@@ -53,7 +53,7 @@ Atlantic Salmon spawn in the pool-riffle transition zones of the main stem and l
 
 Atlantic Salmon spawn in all seven of these watersheds in northeastern PEI, with North Lake Creek, Cross River, and Naufrage River supporting the highest productivity.  Returns have declined in Priest Pond Creek, Hay River, Bear River, and Cow River over the past four to five years.  Salmon in this region are within the proposed Gaspe-Southern Gulf of St. Lawrence designable unit, and were assessed by Committee on the Status of Endangered Wildlife in Canada (COSEWIC) as Special Concern in 2010 (@Cosewic2010).  See ([Appendix B](key-habitat-maps.qmd)) for maps of modelled salmon habitat in the seven watersheds. 
 
-### American Eel | Kataq | *Anguilla rostrata*  {-}
+### American Eel | *Anguilla rostrata*  {-}
 
 American Eel are catadromous species, meaning they spawn in the Sargasso Sea and drift with the ocean currents towards the continental shelf as glass eels.  Elvers then continue migrating towards freshwater tributaries to feed and mature, although some populations have been known to stay in the estuaries and bays or move between freshwater and estuary habitat over their life cycle.  Their ability to tolerate a wide variety of salinities and temperature thresholds allows them to occupy a variety of habitat types.  See ([Appendix B](key-habitat-maps.qmd)) for maps of modelled eel habitat in the seven watersheds.
 

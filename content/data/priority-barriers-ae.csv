@@ -1,0 +1,10 @@
+﻿Barrier ID,Internal Name ,Watercourse Name ,Road Name ,Structure Type,Passability Status ,Number Barriers Group,Total Habitat Gain in Set ,Upstream Habitat Quality,Priority,Next Steps
+87aefbb4-6d49-44d7-91ba-65f7447b13f5,Larkin's Pond,Naufrage River,Mill Rd,Dam,0.25,1,15.9,High,High,Fundraise
+b924ccbf-795d-4d42-a10a-a6b65a688707,Bear River beach,Bear River,Bear Shore Rd is nearest road,Other,0.75,3,9.1,Medium,High,Rehabilitation
+6c5b743e-16ac-4d0b-9f18-741ca773cb00,Hay River beach ,Hay River,Leopold Ln,Dam,0.75,3,5.4,High,High,Engage in public consultation
+59f2c06b-e33f-4a36-910b-3aa5226f575f,Bermuda Triangle,Bear River,Northside Rd - Rte 16,Stream crossing - CBS,0.75,4,9.1,High,High,Engage with barrier owner
+870159b1-13f3-4b0c-8822-8f8a3e602be5,North Lake Creek - stream crossing 2,North Lake Creek,Munns Rd,Stream crossing - CBS,0,1,2,High,High,Engage with barrier owner
+2574c4bf-6f5d-45a4-95dd-2e17e5d7879e,North Lake Creek - stream crossing 3,North Lake Creek,Baltic Rd - Rte 302,Stream crossing - CBS,0.5,1,0.5,Low,High,Engage with barrier owner
+f44dbb6a-3ebd-4df9-b92b-1ff000905a5b,NLC Culvert DS of Dixon's (Millers) Dam,North Lake Creek,Baltic Rd - Rte 302,Stream crossing - CBS,0.5,2,1.9,High,High,Engage with barrier owner
+6c7376c5-52a1-49d1-b97d-5867ba85d5ae,Old Mill Creek Bridge,North Lake Creek,Mill Rd,Stream crossing - OBS,,,,High,High,Rehabilitation
+12bf33df-e292-4171-8c4b-ec5a8005786f,Naufrage River - stream crossing 1,Naufrage River,Hermitage,Stream crossing - CBS,0.5,2,1.3,Low,Medium,Engage with barrier owner

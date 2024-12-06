@@ -24,8 +24,6 @@ source("Rscripts/table_formatting.R")
 
 A primary outcome of the WCRP is addressing barriers (i.e., removing or replacing the barrier, or temporarily adding a fish passage structure) to restore connectivity within the seven watersheds. To achieve the goals in this plan (@tbl-keas), it is necessary to identify a suite of barriers that, if addressed, will provide the largest, most important contribution towards restored connectivity of salmon and eel habitat. The following section outlines the ranking process to identify the list of barriers. 
 
-## Structure Prioritization Summary {-}
-
 After all existing data and knowledge are collated for known and modelled crossings, an iterative ranking process is conducted to help confirm barriers to target for rehabilitation to meet the goals. The ranking process is primarily used to guide field assessments and maximize efficiency in ground truthing data/knowledge inputs and model outputs, while providing a secondary purpose to evaluate the relative key habitat gains of confirmed barriers in the watershed. This process, combined with input from local knowledge holders and experts, is used to develop field plans for assessing structures that have the potential to block the most key habitat in the watershed.  
 
 Field assessments can include an assessment of either the passability status of a structure (whether fish can pass upstream, and to what degree), whether the upstream habitat is suitable for the focal species, and whether there are other undocumented human-made or natural barriers upstream or downstream.
@@ -36,7 +34,7 @@ The ranking process accounts for long-term and immediate potential habitat gains
 
 Following field assessments, structures are placed on one of five possible lists:  
 
-1. **Priority barriers list** – the structure is confirmed as 0, 25, 50, or 75% passable, has key habitat confirmed to exist upstream, and is considered actionable by the planning team (i.e., action items will be identified to address passability of the barrier). Depending on the barrier, owner, financial constraints, and quality of upstream habitat, the action may be to leave to end of life cycle before reviewing again, remove and decommission the road, replace with a new passable structure, or modify to temporarily restore connectivity (e.g., fish ladder or baffles installed; (@tbl-priority)). 
+1. **Priority barriers list** – the structure is confirmed as 0, 25, 50, or 75% passable, has key habitat confirmed to exist upstream, and is considered actionable by the planning team (i.e., action items will be identified to address passability of the barrier). Depending on the barrier, owner, financial constraints, and quality of upstream habitat, the action may be to leave to end of life cycle before reviewing again, remove and decommission the road, replace with a new passable structure, or modify to temporarily restore connectivity (e.g., fish ladder or baffles installed; (@tbl-priority-as/@tbl-priority-ae/@tbl-priority-sm)). 
 
 2. **Assessed structures that remain data deficient list** – some form of field assessment has been completed on the structure, but further investigation is required to confirm either the passability status or upstream habitat (@tbl-deficient). 
 
@@ -47,12 +45,38 @@ Following field assessments, structures are placed on one of five possible lists
 5. **Excluded structures list** – the structure is excluded from further consideration in subsequent ranking and work planning because the structure is confirmed passable (e.g., bridge), not present, or there is no key habitat upstream ([Appendix D](additional-wcrp-tables.qmd)).  
 
 ```{r priority, echo = FALSE, results = 'asis'}
-#| label: tbl-priority
-#| tbl-cap: "The priority barrier list, which includes barriers that have undergone field assessment, been reviewed by the planning team, and selected to be addressed (whether removed, replaced with a passable structure, or provided temporary fish passage)."
+#| label: tbl-priority-as
+#| tbl-cap: "The priority barrier list for Atlantic Salmon, which includes barriers that have undergone field assessment, been reviewed by the planning team, and selected to be addressed (whether removed, replaced with a passable structure, or provided temporary fish passage)."
 #| warning: false
 #| echo: false
 
-data <- read.csv("data/priority_barriers.csv", check.names=FALSE)
+data <- read.csv("data/priority-barriers-as.csv", check.names=FALSE)
+prior_num <- nrow(data)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+```{r priority, echo = FALSE, results = 'asis'}
+#| label: tbl-priority-ae
+#| tbl-cap: "The priority barrier list for American Eel, which includes barriers that have undergone field assessment, been reviewed by the planning team, and selected to be addressed (whether removed, replaced with a passable structure, or provided temporary fish passage)."
+#| warning: false
+#| echo: false
+
+data <- read.csv("data/priority-barriers-ae.csv", check.names=FALSE)
+prior_num <- nrow(data)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
+
+```{r priority, echo = FALSE, results = 'asis'}
+#| label: tbl-priority-sm
+#| tbl-cap: "The priority barrier list for Ranibow Smelt, which includes barriers that have undergone field assessment, been reviewed by the planning team, and selected to be addressed (whether removed, replaced with a passable structure, or provided temporary fish passage)."
+#| warning: false
+#| echo: false
+
+data <- read.csv("data/priority-barriers-sm.csv", check.names=FALSE)
 prior_num <- nrow(data)
 ft <- flextable(data)
 ft <- format_flextable(ft)
