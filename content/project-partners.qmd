@@ -1,4 +1,9 @@
+```{r , include=FALSE}
+#| echo: false
+#| warning: false
 
+library(reticulate)
+```
 # Appendix A - Planning Team {-}
 
 ## Planning Team {-}

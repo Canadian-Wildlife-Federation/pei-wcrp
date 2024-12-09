@@ -1,3 +1,9 @@
+```{r , include=FALSE}
+#| echo: false
+#| warning: false
+
+library(reticulate)
+```
 # Work Planning {-}
 
 ## Annual Progress Report {-}

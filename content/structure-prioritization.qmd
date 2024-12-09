@@ -52,7 +52,7 @@ Following field assessments, structures are placed on one of five possible lists
 
 data <- read.csv("data/priority-barriers-as.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- flextable(data)
+ft <- create_sorted_flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
@@ -65,7 +65,7 @@ ft
 
 data <- read.csv("data/priority-barriers-ae.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- flextable(data)
+ft <- create_sorted_flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
@@ -78,7 +78,7 @@ ft
 
 data <- read.csv("data/priority-barriers-sm.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- flextable(data)
+ft <- create_sorted_flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
