@@ -15,6 +15,7 @@ format_flextable <- function(ft) {
     align_text_col(align = "left", header = TRUE) %>%
     align_nottext_col(align = "left", header = TRUE) %>%
     vline(part = "all", border = std_border) %>%
+    hline(part = "all", border = std_border) %>%
     autofit()
   return(ft)
 }
@@ -26,7 +27,7 @@ create_sorted_flextable <- function(df) {
 
   sorted_df <- df %>%
     arrange(
-      desc(!is.na(!!sym(column_name))), 
+      desc(!is.na(!!sym(column_name))),
       desc(!!sym(column_name))
     )
 
