@@ -14,3 +14,35 @@ Sets are ranked by a combination of two factors:
 An overall ranking for each set was produced as a composite of the long-term and immediate potential gain ranks to prioritize sets that maximize long-term and immediate potential to improve key habitat connectivity in the watershed. All structures in the watershed (excluding those confirmed as passable) were ranked and a subset of those structures were selected by the planning team to assess in the 2023 field season.
 
 Each structure has a “gain per structure” value associated with it, which is a measure of the linear length of key habitat upstream until the next structure. Grouping structures into sets starts by taking the most downstream structure (e.g., structure A) in the stream and the next structure immediately upstream of it (e.g., structure B) and calculates the average gain per structure in that set (structure A+B/2). This process is repeated with sets increasing from two structures to five structures (e.g., structure A+B+C+D+E/5). The set with the highest average gain per structure is grouped together. Structures are left as individuals if adding a second structure reduces the average gain per structure (e.g., structure A > structure A+B/2). After this set is grouped, the algorithm moves to the next structure upstream of the set and repeats the process iteratively until all structures in the stream are in a set and the entire process repeats for each stream in the network.
+
+## Automatic Barrier Ranking Process{-}
+
+### Overview of Barrier Ranking 
+
+| Parameter  | Criteria  |
+|--------|--------|
+| Set  | Barriers that are located on the same stream are grouped together. After they are grouped together, the average length of habitat gain (kms) per barrier removal is calculated.  |
+| Ranked Structure List   | A **ranked structure list** orders structures by amount of habitat blocked, and where removal of an individual structure or a group of structures (a **“set”**) is more effective in opening up habitat.    |
+
+: {.striped .hover}
+
+A **ranked structure list** helps determine where structures are blocking large amounts of habitat, and where removal of an individual structure or a group of structures (a “**set**”) is more effective in opening up habitat, by ranking structures based on amount of habitat blocked. This list communicates to biologists and partners which barriers are the most effective to address in terms of increasing accessible habitat — useful for biologist field work planning — and to compare with a partner’s own understanding own priorities when determining the most important barriers for remediation. This considers a combination of  immediate and long-term habitat gains for removal. 
+
+During a FishPass model re-run,  the script rank_barriers.py ranks barriers in a watershed for a given species in order of which barriers or barrier sets, when removed, would open up the best habitat upstream based on a balance of immediate and long-term habitat gains. It should be noted that this script does not rank passable barriers or barriers which do not block any upstream habitat.
+
+These sets are then ranked along the same stream whose removal as a group would open up more kms of habitat than any of those structures on their own. Those sets that would have a higher average gain per barrier removal would be ranked higher than others. 
+
+### Ranking Barrier Sets
+
+Barrier sets are ranked based on a combination of immediate and long term habitat gains from removal. 
+
+First the barrier sets are sorted by number of barriers downstream of the set then by average gain per barrier. This creates a list where sets with zero downstream barriers are ranked by average gain per barrier first, then sets with 1 downstream barrier, then 2, etc. There is a cutoff of habitat gains less than 500m. Such barrier sets are moved to the bottom of the entire list. 
+
+The barrier sets are given a rank according to this sorting giving a ranking based on immediate habitat gains from barrier set removal. In the final output, this is the column called rank_avg-gain_tiered.
+
+Barrier sets are separately ranked based on total upstream habitat from the set including all habitat blocked by other barrier sets upstream. This gives a ranking based on long term habitat gains from barrier set removal.
+
+The immediate rank and the long term rank is then added together and the list of barrier sets is sorted by this value from lowest to highest. Then the barrier sets are re-ranked according to this combined value. This combined ranking favours sets with good immediate and long term habitat gains.
+
+This combined ranking is also offered in a tiered format where barriers receive a letter grade where A is the top 10, B is 11-20, C is 21-30, and D is for all others. 
+
