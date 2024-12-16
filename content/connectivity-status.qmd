@@ -20,7 +20,7 @@ source("Rscripts/table_formatting.R")
 
 ```
 
-# Connectivity Status Assessment and Goals {-}
+# Connectivity Status Assessment and Goals 
 
 ## Connectivity Status Assessment {-}
 
