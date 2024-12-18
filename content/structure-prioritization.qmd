@@ -52,7 +52,7 @@ Following field assessments, structures are placed on one of five possible lists
 
 data <- read.csv("data/priority-barriers-as.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- create_sorted_flextable(data)
+ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
@@ -65,20 +65,20 @@ ft
 
 data <- read.csv("data/priority-barriers-ae.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- create_sorted_flextable(data)
+ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
 
 ```{r priority, echo = FALSE, results = 'asis'}
 #| label: tbl-priority-sm
-#| tbl-cap: "The priority barrier list for Ranibow Smelt, which includes barriers that have undergone field assessment, been reviewed by the planning team, and selected to be addressed (whether removed, replaced with a passable structure, or provided temporary fish passage)."
+#| tbl-cap: "The priority barrier list for Rainbow Smelt, which includes barriers that have undergone field assessment, been reviewed by the planning team, and selected to be addressed (whether removed, replaced with a passable structure, or provided temporary fish passage)."
 #| warning: false
 #| echo: false
 
 data <- read.csv("data/priority-barriers-sm.csv", check.names=FALSE)
 prior_num <- nrow(data)
-ft <- create_sorted_flextable(data)
+ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
 ```
